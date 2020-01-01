@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Store 1",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 24,
+        "price": 2.4
+      },
+      {
+        "id": 2,
+        "amount": 12,
+        "price": 4.2
+      }
+    ]
+  },
+  {
+    "name": "Store 2",
+    "cards": [
+      {
+        "id": 2,
+        "amount": 25,
+        "price": 1.4
+      },
+      {
+        "id": 3,
+        "amount": 32,
+        "price": 5.2
+      }
+    ]
+  },
+  {
+    "name": "Store 3",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 56,
+        "price": 2.4
+      },
+      {
+        "id": 2,
+        "amount": 23,
+        "price": 14.2
+      },
+      {
+        "id": 3,
+        "amount": 54,
+        "price": 24.2
+      }
+    ]
+  }
+]

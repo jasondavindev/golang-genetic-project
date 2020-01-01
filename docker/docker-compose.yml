@@ -1,0 +1,13 @@
+version: "3.6"
+
+services:
+  app:
+    build:
+      dockerfile: docker/Dockerfile
+      context: ..
+      target: dev
+    image: "$PROJECT_NAME"
+    container_name: "${PROJECT_NAME}_app"
+    working_dir: /home/app
+    volumes:
+      - ../:/home/app

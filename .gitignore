@@ -1,0 +1,6 @@
+.cache
+dist/**
+!dist/.keep
+*.log
+*.error
+docker/volumes
