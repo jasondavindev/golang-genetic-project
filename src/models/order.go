@@ -1,9 +1,6 @@
 package models
 
 type OrderModel struct {
-	Cards []StoreCardModel `json:"cards"`
-}
-
-func (self *OrderModel) GeneratePopulation(size uint) *PopulationModel {
-	return NewPopulation(size)
+	Cards       []StoreCardModel `json:"cards"`
+	FinalAmount uint             `json:"final_amount"`
 }

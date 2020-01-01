@@ -8,18 +8,22 @@ import (
 )
 
 func main() {
-	order := LoadOrder("/home/app/files/order.json")
-	stores := LoadStores("/home/app/files/stores.json")
-	population := models.NewPopulation(100)
-	fmt.Printf("order %v\nType: %T\n", order, order)
-	fmt.Printf("stores %v\nType: %T\n", stores, stores)
-	fmt.Println(population)
+	var order models.OrderModel
+	var stores models.StoresGroup
+
+	LoadOrder("/home/app/files/order.json", &order)
+	LoadStores("/home/app/files/stores.json", &stores)
+
+	population := models.NewPopulation(10)
+	population.GenerateChromossomes(order, stores)
+	population.GenerateChromossomesGenes(order, stores)
+	fmt.Println(population.GetTopOne())
 }
 
-func LoadOrder(path string) interface{} {
-	return util.BindFile(path, models.OrderModel{})
+func LoadOrder(path string, obj *models.OrderModel) interface{} {
+	return util.BindFileWith(path, obj)
 }
 
-func LoadStores(path string) interface{} {
-	return util.BindFile(path, []models.StoreModel{})
+func LoadStores(path string, obj *models.StoresGroup) interface{} {
+	return util.BindFileWith(path, obj)
 }

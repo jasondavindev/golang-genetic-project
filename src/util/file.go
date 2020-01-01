@@ -32,3 +32,27 @@ func BindFile(path string, obj interface{}) interface{} {
 
 	return model
 }
+
+func BindFileWith(path string, obj interface{}) error {
+	file, err := os.Open(path)
+
+	if err != nil {
+		return err
+	}
+
+	defer file.Close()
+
+	byteValue, err := ioutil.ReadAll(file)
+
+	if err != nil {
+		return err
+	}
+
+	err = json.Unmarshal(byteValue, obj)
+
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
