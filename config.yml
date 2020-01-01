@@ -1,0 +1,11 @@
+population:
+  size: 100
+
+mutation:
+  cycles: 1000
+  chance: 90
+  genes: 8
+
+files:
+  order: /home/app/files/order.json
+  stores: /home/app/files/stores.json

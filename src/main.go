@@ -3,27 +3,37 @@ package main
 import (
 	"fmt"
 
+	"github.com/jasondavindev/golang-genetic-project/src/config"
 	"github.com/jasondavindev/golang-genetic-project/src/models"
 	"github.com/jasondavindev/golang-genetic-project/src/util"
 )
 
 func main() {
+	if err := config.InitConfigs(); err != nil {
+		panic(err)
+	}
+
 	var order models.OrderModel
 	var stores models.StoresGroup
 
-	LoadOrder("/home/app/files/order.json", &order)
-	LoadStores("/home/app/files/stores.json", &stores)
+	LoadOrder(config.GetConfig().Files.Order, &order)
+	LoadStores(config.GetConfig().Files.Stores, &stores)
 
-	population := models.NewPopulation(10)
+	population := models.NewPopulation(config.GetConfig().Population.Size)
 	population.GenerateChromossomes(order, stores)
 	population.GenerateChromossomesGenes(order, stores)
-	fmt.Println(population.GetTopOne())
+
+	fmt.Println("Top Fitness before mutation", population.GetTopOne().Fitness)
+	population.MakeMutation(&stores, config.GetConfig().Mutation.Cycles)
+	fmt.Println("Top Fitness after mutation", population.GetTopOne().Fitness)
 }
 
-func LoadOrder(path string, obj *models.OrderModel) interface{} {
+// LoadOrder load order file
+func LoadOrder(path string, obj *models.OrderModel) error {
 	return util.BindFileWith(path, obj)
 }
 
-func LoadStores(path string, obj *models.StoresGroup) interface{} {
+// LoadStores load stores file
+func LoadStores(path string, obj *models.StoresGroup) error {
 	return util.BindFileWith(path, obj)
 }

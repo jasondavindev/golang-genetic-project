@@ -3,11 +3,13 @@ version: "3.6"
 services:
   app:
     build:
-      dockerfile: docker/Dockerfile
       context: ..
+      dockerfile: docker/Dockerfile
       target: dev
-    image: "$PROJECT_NAME"
     container_name: "${PROJECT_NAME}_app"
-    working_dir: /home/app
+    environment:
+      CONFIG_FILE: /home/app/config.yml
+    image: "$PROJECT_NAME"
     volumes:
       - ../:/home/app
+    working_dir: /home/app

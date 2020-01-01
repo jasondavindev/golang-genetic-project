@@ -2,16 +2,16 @@
   "cards": [
     {
       "id": 1,
-      "amount": 2
+      "amount": 30
     },
     {
       "id": 2,
-      "amount": 1
+      "amount": 100
     },
     {
       "id": 3,
-      "amount": 4
+      "amount": 30
     }
   ],
-  "final_amount": 7
+  "final_amount": 160
 }

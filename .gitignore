@@ -1,6 +1,6 @@
 .cache
-dist/**
-!dist/.keep
+bin/**
+!bin/.keep
 *.log
 *.error
 docker/volumes

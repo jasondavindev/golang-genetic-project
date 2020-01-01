@@ -7,6 +7,7 @@ import (
 	"reflect"
 )
 
+// BindFile returns a structed file
 func BindFile(path string, obj interface{}) interface{} {
 	file, err := os.Open(path)
 
@@ -33,6 +34,7 @@ func BindFile(path string, obj interface{}) interface{} {
 	return model
 }
 
+// BindFileWith structures a file and bind it to obj
 func BindFileWith(path string, obj interface{}) error {
 	file, err := os.Open(path)
 

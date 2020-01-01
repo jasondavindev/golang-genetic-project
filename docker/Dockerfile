@@ -18,4 +18,4 @@ FROM base as dev
 
 RUN go get -u github.com/githubnemo/CompileDaemon
 
-ENTRYPOINT CompileDaemon -directory="$HOME/src" -build="go build -o $HOME/dist/main $HOME/src/main.go" -command="$HOME/dist/main"
+ENTRYPOINT CompileDaemon -directory="$HOME/src" -build="go build -o $HOME/bin/main $HOME/src/main.go" -command="$HOME/bin/main"

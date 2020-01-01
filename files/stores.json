@@ -4,13 +4,78 @@
     "cards": [
       {
         "id": 1,
-        "amount": 24,
-        "price": 2.4
+        "amount": 93,
+        "price": 55.5335
       },
       {
         "id": 2,
+        "amount": 96,
+        "price": 82.0821
+      },
+      {
+        "id": 3,
+        "amount": 89,
+        "price": 8.7446
+      },
+      {
+        "id": 4,
+        "amount": 37,
+        "price": 19.4428
+      },
+      {
+        "id": 5,
+        "amount": 78,
+        "price": 80.687
+      },
+      {
+        "id": 6,
+        "amount": 51,
+        "price": 54.977
+      },
+      {
+        "id": 7,
+        "amount": 3,
+        "price": 27.881
+      },
+      {
+        "id": 8,
+        "amount": 11,
+        "price": 92.1087
+      },
+      {
+        "id": 9,
+        "amount": 21,
+        "price": 42.1696
+      },
+      {
+        "id": 10,
         "amount": 12,
-        "price": 4.2
+        "price": 48.7273
+      },
+      {
+        "id": 11,
+        "amount": 76,
+        "price": 46.7345
+      },
+      {
+        "id": 12,
+        "amount": 0,
+        "price": 97.1181
+      },
+      {
+        "id": 13,
+        "amount": 51,
+        "price": 78.9378
+      },
+      {
+        "id": 14,
+        "amount": 63,
+        "price": 24.8599
+      },
+      {
+        "id": 15,
+        "amount": 41,
+        "price": 40.4764
       }
     ]
   },
@@ -18,14 +83,79 @@
     "name": "Store 2",
     "cards": [
       {
+        "id": 1,
+        "amount": 56,
+        "price": 6.8439
+      },
+      {
         "id": 2,
-        "amount": 25,
-        "price": 1.4
+        "amount": 57,
+        "price": 77.6334
       },
       {
         "id": 3,
-        "amount": 32,
-        "price": 5.2
+        "amount": 48,
+        "price": 83.4796
+      },
+      {
+        "id": 4,
+        "amount": 63,
+        "price": 68.4813
+      },
+      {
+        "id": 5,
+        "amount": 71,
+        "price": 99.7896
+      },
+      {
+        "id": 6,
+        "amount": 33,
+        "price": 79.5608
+      },
+      {
+        "id": 7,
+        "amount": 9,
+        "price": 72.2145
+      },
+      {
+        "id": 8,
+        "amount": 37,
+        "price": 7.0677
+      },
+      {
+        "id": 9,
+        "amount": 11,
+        "price": 93.2217
+      },
+      {
+        "id": 10,
+        "amount": 38,
+        "price": 80.3544
+      },
+      {
+        "id": 11,
+        "amount": 2,
+        "price": 28.6759
+      },
+      {
+        "id": 12,
+        "amount": 87,
+        "price": 18.5221
+      },
+      {
+        "id": 13,
+        "amount": 6,
+        "price": 29.8194
+      },
+      {
+        "id": 14,
+        "amount": 83,
+        "price": 5.7131
+      },
+      {
+        "id": 15,
+        "amount": 52,
+        "price": 96.1954
       }
     ]
   },
@@ -34,18 +164,7838 @@
     "cards": [
       {
         "id": 1,
+        "amount": 49,
+        "price": 5.403
+      },
+      {
+        "id": 2,
+        "amount": 37,
+        "price": 101.0823
+      },
+      {
+        "id": 3,
+        "amount": 6,
+        "price": 8.6747
+      },
+      {
+        "id": 4,
+        "amount": 24,
+        "price": 50.5757
+      },
+      {
+        "id": 5,
+        "amount": 83,
+        "price": 75.8569
+      },
+      {
+        "id": 6,
+        "amount": 25,
+        "price": 32.7065
+      },
+      {
+        "id": 7,
+        "amount": 37,
+        "price": 6.2028
+      },
+      {
+        "id": 8,
+        "amount": 51,
+        "price": 53.3433
+      },
+      {
+        "id": 9,
+        "amount": 89,
+        "price": 65.2268
+      },
+      {
+        "id": 10,
+        "amount": 81,
+        "price": 51.4912
+      },
+      {
+        "id": 11,
+        "amount": 0,
+        "price": 16.3405
+      },
+      {
+        "id": 12,
+        "amount": 81,
+        "price": 55.4603
+      },
+      {
+        "id": 13,
+        "amount": 61,
+        "price": 94.7741
+      },
+      {
+        "id": 14,
+        "amount": 89,
+        "price": 78.4598
+      },
+      {
+        "id": 15,
+        "amount": 94,
+        "price": 72.1526
+      }
+    ]
+  },
+  {
+    "name": "Store 4",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 74,
+        "price": 69.5184
+      },
+      {
+        "id": 2,
+        "amount": 44,
+        "price": 43.5506
+      },
+      {
+        "id": 3,
+        "amount": 5,
+        "price": 58.1927
+      },
+      {
+        "id": 4,
+        "amount": 95,
+        "price": 30.4117
+      },
+      {
+        "id": 5,
+        "amount": 40,
+        "price": 86.1322
+      },
+      {
+        "id": 6,
+        "amount": 35,
+        "price": 78.0348
+      },
+      {
+        "id": 7,
+        "amount": 76,
+        "price": 49.8718
+      },
+      {
+        "id": 8,
+        "amount": 12,
+        "price": 70.1065
+      },
+      {
+        "id": 9,
+        "amount": 66,
+        "price": 8.1744
+      },
+      {
+        "id": 10,
+        "amount": 55,
+        "price": 57.0584
+      },
+      {
+        "id": 11,
+        "amount": 61,
+        "price": 13.1849
+      },
+      {
+        "id": 12,
+        "amount": 37,
+        "price": 20.646
+      },
+      {
+        "id": 13,
+        "amount": 15,
+        "price": 56.9056
+      },
+      {
+        "id": 14,
+        "amount": 22,
+        "price": 79.3734
+      },
+      {
+        "id": 15,
+        "amount": 54,
+        "price": 38.8476
+      }
+    ]
+  },
+  {
+    "name": "Store 5",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 57,
+        "price": 5.1426
+      },
+      {
+        "id": 2,
+        "amount": 93,
+        "price": 101.5504
+      },
+      {
+        "id": 3,
+        "amount": 31,
+        "price": 46.6185
+      },
+      {
+        "id": 4,
+        "amount": 12,
+        "price": 57.9053
+      },
+      {
+        "id": 5,
+        "amount": 36,
+        "price": 17.082
+      },
+      {
+        "id": 6,
+        "amount": 95,
+        "price": 66.312
+      },
+      {
+        "id": 7,
+        "amount": 34,
+        "price": 72.7284
+      },
+      {
+        "id": 8,
+        "amount": 5,
+        "price": 4.7833
+      },
+      {
+        "id": 9,
+        "amount": 78,
+        "price": 62.4866
+      },
+      {
+        "id": 10,
+        "amount": 12,
+        "price": 40.4197
+      },
+      {
+        "id": 11,
+        "amount": 94,
+        "price": 25.7717
+      },
+      {
+        "id": 12,
+        "amount": 75,
+        "price": 33.6648
+      },
+      {
+        "id": 13,
+        "amount": 75,
+        "price": 34.2275
+      },
+      {
+        "id": 14,
+        "amount": 11,
+        "price": 7.7533
+      },
+      {
+        "id": 15,
+        "amount": 9,
+        "price": 80.3974
+      }
+    ]
+  },
+  {
+    "name": "Store 6",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 93,
+        "price": 89.089
+      },
+      {
+        "id": 2,
+        "amount": 64,
+        "price": 90.8384
+      },
+      {
+        "id": 3,
+        "amount": 47,
+        "price": 52.1923
+      },
+      {
+        "id": 4,
+        "amount": 44,
+        "price": 48.4077
+      },
+      {
+        "id": 5,
+        "amount": 16,
+        "price": 68.9096
+      },
+      {
+        "id": 6,
+        "amount": 37,
+        "price": 71.5717
+      },
+      {
+        "id": 7,
+        "amount": 8,
+        "price": 87.6214
+      },
+      {
+        "id": 8,
+        "amount": 43,
+        "price": 48.2329
+      },
+      {
+        "id": 9,
+        "amount": 90,
+        "price": 83.7661
+      },
+      {
+        "id": 10,
+        "amount": 75,
+        "price": 71.7748
+      },
+      {
+        "id": 11,
+        "amount": 54,
+        "price": 90.7093
+      },
+      {
+        "id": 12,
+        "amount": 76,
+        "price": 30.1911
+      },
+      {
+        "id": 13,
+        "amount": 45,
+        "price": 24.0273
+      },
+      {
+        "id": 14,
+        "amount": 26,
+        "price": 85.6905
+      },
+      {
+        "id": 15,
+        "amount": 76,
+        "price": 58.5152
+      }
+    ]
+  },
+  {
+    "name": "Store 7",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 44,
+        "price": 15.0627
+      },
+      {
+        "id": 2,
+        "amount": 33,
+        "price": 2.8464
+      },
+      {
+        "id": 3,
+        "amount": 76,
+        "price": 81.0241
+      },
+      {
+        "id": 4,
+        "amount": 92,
+        "price": 27.736
+      },
+      {
+        "id": 5,
         "amount": 56,
-        "price": 2.4
+        "price": 6.4788
+      },
+      {
+        "id": 6,
+        "amount": 8,
+        "price": 50.1507
+      },
+      {
+        "id": 7,
+        "amount": 74,
+        "price": 24.5895
+      },
+      {
+        "id": 8,
+        "amount": 26,
+        "price": 42.119
+      },
+      {
+        "id": 9,
+        "amount": 63,
+        "price": 40.0676
+      },
+      {
+        "id": 10,
+        "amount": 17,
+        "price": 52.6596
+      },
+      {
+        "id": 11,
+        "amount": 63,
+        "price": 57.3213
+      },
+      {
+        "id": 12,
+        "amount": 75,
+        "price": 52.5658
+      },
+      {
+        "id": 13,
+        "amount": 18,
+        "price": 93.9046
+      },
+      {
+        "id": 14,
+        "amount": 78,
+        "price": 45.3256
+      },
+      {
+        "id": 15,
+        "amount": 67,
+        "price": 99.8017
+      }
+    ]
+  },
+  {
+    "name": "Store 8",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 84,
+        "price": 85.895
+      },
+      {
+        "id": 2,
+        "amount": 98,
+        "price": 70.3363
+      },
+      {
+        "id": 3,
+        "amount": 87,
+        "price": 80.2035
+      },
+      {
+        "id": 4,
+        "amount": 88,
+        "price": 63.1346
+      },
+      {
+        "id": 5,
+        "amount": 64,
+        "price": 48.2565
+      },
+      {
+        "id": 6,
+        "amount": 72,
+        "price": 50.9378
+      },
+      {
+        "id": 7,
+        "amount": 43,
+        "price": 23.6761
+      },
+      {
+        "id": 8,
+        "amount": 75,
+        "price": 75.9425
+      },
+      {
+        "id": 9,
+        "amount": 29,
+        "price": 97.8854
+      },
+      {
+        "id": 10,
+        "amount": 16,
+        "price": 64.8147
+      },
+      {
+        "id": 11,
+        "amount": 38,
+        "price": 41.7143
+      },
+      {
+        "id": 12,
+        "amount": 3,
+        "price": 64.0854
+      },
+      {
+        "id": 13,
+        "amount": 57,
+        "price": 14.088
+      },
+      {
+        "id": 14,
+        "amount": 33,
+        "price": 69.3167
+      },
+      {
+        "id": 15,
+        "amount": 60,
+        "price": 44.9887
+      }
+    ]
+  },
+  {
+    "name": "Store 9",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 31,
+        "price": 27.7819
+      },
+      {
+        "id": 2,
+        "amount": 73,
+        "price": 66.6719
+      },
+      {
+        "id": 3,
+        "amount": 41,
+        "price": 90.0315
+      },
+      {
+        "id": 4,
+        "amount": 92,
+        "price": 3.8989
+      },
+      {
+        "id": 5,
+        "amount": 81,
+        "price": 22.5395
+      },
+      {
+        "id": 6,
+        "amount": 32,
+        "price": 83.3343
+      },
+      {
+        "id": 7,
+        "amount": 89,
+        "price": 53.6299
+      },
+      {
+        "id": 8,
+        "amount": 98,
+        "price": 58.7032
+      },
+      {
+        "id": 9,
+        "amount": 72,
+        "price": 42.7398
+      },
+      {
+        "id": 10,
+        "amount": 43,
+        "price": 53.4455
+      },
+      {
+        "id": 11,
+        "amount": 29,
+        "price": 42.3767
+      },
+      {
+        "id": 12,
+        "amount": 34,
+        "price": 11.439
+      },
+      {
+        "id": 13,
+        "amount": 24,
+        "price": 23.3331
+      },
+      {
+        "id": 14,
+        "amount": 77,
+        "price": 52.5554
+      },
+      {
+        "id": 15,
+        "amount": 11,
+        "price": 51.986
+      }
+    ]
+  },
+  {
+    "name": "Store 10",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 36,
+        "price": 17.0363
+      },
+      {
+        "id": 2,
+        "amount": 32,
+        "price": 49.9525
+      },
+      {
+        "id": 3,
+        "amount": 1,
+        "price": 66.445
+      },
+      {
+        "id": 4,
+        "amount": 72,
+        "price": 57.7811
+      },
+      {
+        "id": 5,
+        "amount": 26,
+        "price": 91.0645
+      },
+      {
+        "id": 6,
+        "amount": 7,
+        "price": 98.5434
+      },
+      {
+        "id": 7,
+        "amount": 23,
+        "price": 19.817
+      },
+      {
+        "id": 8,
+        "amount": 15,
+        "price": 47.752
+      },
+      {
+        "id": 9,
+        "amount": 96,
+        "price": 72.0674
+      },
+      {
+        "id": 10,
+        "amount": 23,
+        "price": 55.6219
+      },
+      {
+        "id": 11,
+        "amount": 48,
+        "price": 53.9653
+      },
+      {
+        "id": 12,
+        "amount": 76,
+        "price": 50.4672
+      },
+      {
+        "id": 13,
+        "amount": 70,
+        "price": 53.4763
+      },
+      {
+        "id": 14,
+        "amount": 94,
+        "price": 19.5676
+      },
+      {
+        "id": 15,
+        "amount": 11,
+        "price": 62.1383
+      }
+    ]
+  },
+  {
+    "name": "Store 11",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 51,
+        "price": 55.7631
+      },
+      {
+        "id": 2,
+        "amount": 76,
+        "price": 3.763
+      },
+      {
+        "id": 3,
+        "amount": 19,
+        "price": 63.1646
+      },
+      {
+        "id": 4,
+        "amount": 77,
+        "price": 8.0171
+      },
+      {
+        "id": 5,
+        "amount": 45,
+        "price": 67.5838
+      },
+      {
+        "id": 6,
+        "amount": 69,
+        "price": 83.9467
+      },
+      {
+        "id": 7,
+        "amount": 19,
+        "price": 20.3817
+      },
+      {
+        "id": 8,
+        "amount": 44,
+        "price": 37.1148
+      },
+      {
+        "id": 9,
+        "amount": 33,
+        "price": 67.7639
+      },
+      {
+        "id": 10,
+        "amount": 80,
+        "price": 20.5214
+      },
+      {
+        "id": 11,
+        "amount": 95,
+        "price": 51.7663
+      },
+      {
+        "id": 12,
+        "amount": 60,
+        "price": 18.4037
+      },
+      {
+        "id": 13,
+        "amount": 28,
+        "price": 21.2354
+      },
+      {
+        "id": 14,
+        "amount": 64,
+        "price": 85.442
+      },
+      {
+        "id": 15,
+        "amount": 6,
+        "price": 92.0123
+      }
+    ]
+  },
+  {
+    "name": "Store 12",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 25,
+        "price": 89.3457
+      },
+      {
+        "id": 2,
+        "amount": 74,
+        "price": 24.3957
+      },
+      {
+        "id": 3,
+        "amount": 60,
+        "price": 75.0957
+      },
+      {
+        "id": 4,
+        "amount": 0,
+        "price": 4.3727
+      },
+      {
+        "id": 5,
+        "amount": 57,
+        "price": 38.7772
+      },
+      {
+        "id": 6,
+        "amount": 94,
+        "price": 33.3359
+      },
+      {
+        "id": 7,
+        "amount": 67,
+        "price": 52.9845
+      },
+      {
+        "id": 8,
+        "amount": 48,
+        "price": 53.3502
+      },
+      {
+        "id": 9,
+        "amount": 13,
+        "price": 66.5233
+      },
+      {
+        "id": 10,
+        "amount": 92,
+        "price": 68.6841
+      },
+      {
+        "id": 11,
+        "amount": 17,
+        "price": 10.8396
+      },
+      {
+        "id": 12,
+        "amount": 43,
+        "price": 99.6164
+      },
+      {
+        "id": 13,
+        "amount": 4,
+        "price": 98.5118
+      },
+      {
+        "id": 14,
+        "amount": 17,
+        "price": 7.6037
+      },
+      {
+        "id": 15,
+        "amount": 66,
+        "price": 21.343
+      }
+    ]
+  },
+  {
+    "name": "Store 13",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 45,
+        "price": 29.2084
+      },
+      {
+        "id": 2,
+        "amount": 4,
+        "price": 74.4439
+      },
+      {
+        "id": 3,
+        "amount": 39,
+        "price": 89.5566
+      },
+      {
+        "id": 4,
+        "amount": 57,
+        "price": 26.9343
+      },
+      {
+        "id": 5,
+        "amount": 66,
+        "price": 92.2781
+      },
+      {
+        "id": 6,
+        "amount": 93,
+        "price": 9.0793
+      },
+      {
+        "id": 7,
+        "amount": 42,
+        "price": 83.0367
+      },
+      {
+        "id": 8,
+        "amount": 54,
+        "price": 98.494
+      },
+      {
+        "id": 9,
+        "amount": 84,
+        "price": 9.8856
+      },
+      {
+        "id": 10,
+        "amount": 40,
+        "price": 18.9754
+      },
+      {
+        "id": 11,
+        "amount": 77,
+        "price": 26.8103
+      },
+      {
+        "id": 12,
+        "amount": 49,
+        "price": 9.4103
+      },
+      {
+        "id": 13,
+        "amount": 2,
+        "price": 2.5526
+      },
+      {
+        "id": 14,
+        "amount": 91,
+        "price": 64.9185
+      },
+      {
+        "id": 15,
+        "amount": 49,
+        "price": 12.1779
+      }
+    ]
+  },
+  {
+    "name": "Store 14",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 68,
+        "price": 14.6479
+      },
+      {
+        "id": 2,
+        "amount": 56,
+        "price": 22.0101
+      },
+      {
+        "id": 3,
+        "amount": 38,
+        "price": 21.8904
+      },
+      {
+        "id": 4,
+        "amount": 91,
+        "price": 53.9291
+      },
+      {
+        "id": 5,
+        "amount": 82,
+        "price": 18.8342
+      },
+      {
+        "id": 6,
+        "amount": 61,
+        "price": 68.8736
+      },
+      {
+        "id": 7,
+        "amount": 76,
+        "price": 40.1946
+      },
+      {
+        "id": 8,
+        "amount": 44,
+        "price": 25.3729
+      },
+      {
+        "id": 9,
+        "amount": 55,
+        "price": 31.8185
+      },
+      {
+        "id": 10,
+        "amount": 48,
+        "price": 99.0783
+      },
+      {
+        "id": 11,
+        "amount": 16,
+        "price": 90.0255
+      },
+      {
+        "id": 12,
+        "amount": 56,
+        "price": 38.0887
+      },
+      {
+        "id": 13,
+        "amount": 73,
+        "price": 63.5445
+      },
+      {
+        "id": 14,
+        "amount": 54,
+        "price": 25.1372
+      },
+      {
+        "id": 15,
+        "amount": 76,
+        "price": 16.2258
+      }
+    ]
+  },
+  {
+    "name": "Store 15",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 76,
+        "price": 65.6043
+      },
+      {
+        "id": 2,
+        "amount": 27,
+        "price": 61.167
+      },
+      {
+        "id": 3,
+        "amount": 31,
+        "price": 50.4478
+      },
+      {
+        "id": 4,
+        "amount": 49,
+        "price": 17.1991
+      },
+      {
+        "id": 5,
+        "amount": 99,
+        "price": 20.5207
+      },
+      {
+        "id": 6,
+        "amount": 96,
+        "price": 75.6339
+      },
+      {
+        "id": 7,
+        "amount": 7,
+        "price": 13.8368
+      },
+      {
+        "id": 8,
+        "amount": 2,
+        "price": 52.5416
+      },
+      {
+        "id": 9,
+        "amount": 13,
+        "price": 2.2044
+      },
+      {
+        "id": 10,
+        "amount": 89,
+        "price": 10.601
+      },
+      {
+        "id": 11,
+        "amount": 72,
+        "price": 57.2453
+      },
+      {
+        "id": 12,
+        "amount": 98,
+        "price": 97.6227
+      },
+      {
+        "id": 13,
+        "amount": 78,
+        "price": 98.176
+      },
+      {
+        "id": 14,
+        "amount": 21,
+        "price": 43.2088
+      },
+      {
+        "id": 15,
+        "amount": 3,
+        "price": 66.9423
+      }
+    ]
+  },
+  {
+    "name": "Store 16",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 70,
+        "price": 99.2724
+      },
+      {
+        "id": 2,
+        "amount": 28,
+        "price": 94.095
+      },
+      {
+        "id": 3,
+        "amount": 29,
+        "price": 19.9722
+      },
+      {
+        "id": 4,
+        "amount": 28,
+        "price": 30.3403
+      },
+      {
+        "id": 5,
+        "amount": 89,
+        "price": 67.122
+      },
+      {
+        "id": 6,
+        "amount": 92,
+        "price": 10.4631
+      },
+      {
+        "id": 7,
+        "amount": 22,
+        "price": 58.1006
+      },
+      {
+        "id": 8,
+        "amount": 51,
+        "price": 10.3498
+      },
+      {
+        "id": 9,
+        "amount": 82,
+        "price": 40.9579
+      },
+      {
+        "id": 10,
+        "amount": 2,
+        "price": 34.1961
+      },
+      {
+        "id": 11,
+        "amount": 22,
+        "price": 17.5905
+      },
+      {
+        "id": 12,
+        "amount": 86,
+        "price": 88.7247
+      },
+      {
+        "id": 13,
+        "amount": 28,
+        "price": 27.3172
+      },
+      {
+        "id": 14,
+        "amount": 23,
+        "price": 12.9846
+      },
+      {
+        "id": 15,
+        "amount": 88,
+        "price": 42.0195
+      }
+    ]
+  },
+  {
+    "name": "Store 17",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 23,
+        "price": 83.656
+      },
+      {
+        "id": 2,
+        "amount": 15,
+        "price": 67.629
+      },
+      {
+        "id": 3,
+        "amount": 27,
+        "price": 15.5973
+      },
+      {
+        "id": 4,
+        "amount": 76,
+        "price": 32.5661
+      },
+      {
+        "id": 5,
+        "amount": 61,
+        "price": 34.2243
+      },
+      {
+        "id": 6,
+        "amount": 30,
+        "price": 49.2677
+      },
+      {
+        "id": 7,
+        "amount": 79,
+        "price": 80.4638
+      },
+      {
+        "id": 8,
+        "amount": 30,
+        "price": 60.2798
+      },
+      {
+        "id": 9,
+        "amount": 9,
+        "price": 35.6516
+      },
+      {
+        "id": 10,
+        "amount": 57,
+        "price": 59.1957
+      },
+      {
+        "id": 11,
+        "amount": 2,
+        "price": 16.1289
+      },
+      {
+        "id": 12,
+        "amount": 19,
+        "price": 19.1304
+      },
+      {
+        "id": 13,
+        "amount": 86,
+        "price": 69.0023
+      },
+      {
+        "id": 14,
+        "amount": 3,
+        "price": 17.5631
+      },
+      {
+        "id": 15,
+        "amount": 48,
+        "price": 68.6601
+      }
+    ]
+  },
+  {
+    "name": "Store 18",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 31,
+        "price": 56.7732
+      },
+      {
+        "id": 2,
+        "amount": 42,
+        "price": 81.8102
+      },
+      {
+        "id": 3,
+        "amount": 64,
+        "price": 87.1189
+      },
+      {
+        "id": 4,
+        "amount": 81,
+        "price": 69.1212
+      },
+      {
+        "id": 5,
+        "amount": 89,
+        "price": 86.7106
+      },
+      {
+        "id": 6,
+        "amount": 46,
+        "price": 51.2221
+      },
+      {
+        "id": 7,
+        "amount": 1,
+        "price": 13.2347
+      },
+      {
+        "id": 8,
+        "amount": 95,
+        "price": 68.1073
+      },
+      {
+        "id": 9,
+        "amount": 83,
+        "price": 36.7023
+      },
+      {
+        "id": 10,
+        "amount": 94,
+        "price": 60.3408
+      },
+      {
+        "id": 11,
+        "amount": 3,
+        "price": 16.4058
+      },
+      {
+        "id": 12,
+        "amount": 38,
+        "price": 10.2093
+      },
+      {
+        "id": 13,
+        "amount": 79,
+        "price": 34.5974
+      },
+      {
+        "id": 14,
+        "amount": 86,
+        "price": 73.6726
+      },
+      {
+        "id": 15,
+        "amount": 88,
+        "price": 22.9719
+      }
+    ]
+  },
+  {
+    "name": "Store 19",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 13,
+        "price": 95.3793
+      },
+      {
+        "id": 2,
+        "amount": 17,
+        "price": 97.4746
+      },
+      {
+        "id": 3,
+        "amount": 35,
+        "price": 28.8587
+      },
+      {
+        "id": 4,
+        "amount": 4,
+        "price": 58.3429
+      },
+      {
+        "id": 5,
+        "amount": 87,
+        "price": 59.1126
+      },
+      {
+        "id": 6,
+        "amount": 88,
+        "price": 78.7444
+      },
+      {
+        "id": 7,
+        "amount": 64,
+        "price": 70.416
+      },
+      {
+        "id": 8,
+        "amount": 72,
+        "price": 69.1934
+      },
+      {
+        "id": 9,
+        "amount": 49,
+        "price": 65.9627
+      },
+      {
+        "id": 10,
+        "amount": 89,
+        "price": 83.7293
+      },
+      {
+        "id": 11,
+        "amount": 85,
+        "price": 31.8985
+      },
+      {
+        "id": 12,
+        "amount": 95,
+        "price": 15.406
+      },
+      {
+        "id": 13,
+        "amount": 61,
+        "price": 58.1325
+      },
+      {
+        "id": 14,
+        "amount": 82,
+        "price": 37.1169
+      },
+      {
+        "id": 15,
+        "amount": 87,
+        "price": 86.4654
+      }
+    ]
+  },
+  {
+    "name": "Store 20",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 45,
+        "price": 90.3825
+      },
+      {
+        "id": 2,
+        "amount": 44,
+        "price": 17.8513
+      },
+      {
+        "id": 3,
+        "amount": 24,
+        "price": 49.8987
+      },
+      {
+        "id": 4,
+        "amount": 85,
+        "price": 75.7937
+      },
+      {
+        "id": 5,
+        "amount": 93,
+        "price": 66.6439
+      },
+      {
+        "id": 6,
+        "amount": 4,
+        "price": 81.2378
+      },
+      {
+        "id": 7,
+        "amount": 96,
+        "price": 85.0479
+      },
+      {
+        "id": 8,
+        "amount": 30,
+        "price": 90.6297
+      },
+      {
+        "id": 9,
+        "amount": 97,
+        "price": 42.1517
+      },
+      {
+        "id": 10,
+        "amount": 75,
+        "price": 5.4344
+      },
+      {
+        "id": 11,
+        "amount": 85,
+        "price": 57.5574
+      },
+      {
+        "id": 12,
+        "amount": 14,
+        "price": 92.8845
+      },
+      {
+        "id": 13,
+        "amount": 23,
+        "price": 4.552
+      },
+      {
+        "id": 14,
+        "amount": 19,
+        "price": 33.2289
+      },
+      {
+        "id": 15,
+        "amount": 95,
+        "price": 27.6229
+      }
+    ]
+  },
+  {
+    "name": "Store 21",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 8,
+        "price": 2.1716
+      },
+      {
+        "id": 2,
+        "amount": 40,
+        "price": 23.4079
+      },
+      {
+        "id": 3,
+        "amount": 41,
+        "price": 9.713
+      },
+      {
+        "id": 4,
+        "amount": 85,
+        "price": 75.1491
+      },
+      {
+        "id": 5,
+        "amount": 40,
+        "price": 16.3737
+      },
+      {
+        "id": 6,
+        "amount": 12,
+        "price": 95.5639
+      },
+      {
+        "id": 7,
+        "amount": 15,
+        "price": 85.2771
+      },
+      {
+        "id": 8,
+        "amount": 80,
+        "price": 38.5088
+      },
+      {
+        "id": 9,
+        "amount": 14,
+        "price": 4.1675
+      },
+      {
+        "id": 10,
+        "amount": 98,
+        "price": 13.1032
+      },
+      {
+        "id": 11,
+        "amount": 1,
+        "price": 16.5629
+      },
+      {
+        "id": 12,
+        "amount": 0,
+        "price": 10.9409
+      },
+      {
+        "id": 13,
+        "amount": 26,
+        "price": 72.3082
+      },
+      {
+        "id": 14,
+        "amount": 8,
+        "price": 11.3058
+      },
+      {
+        "id": 15,
+        "amount": 14,
+        "price": 96.9203
+      }
+    ]
+  },
+  {
+    "name": "Store 22",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 2,
+        "price": 12.6744
+      },
+      {
+        "id": 2,
+        "amount": 17,
+        "price": 59.1307
+      },
+      {
+        "id": 3,
+        "amount": 42,
+        "price": 62.4017
+      },
+      {
+        "id": 4,
+        "amount": 97,
+        "price": 101.5126
+      },
+      {
+        "id": 5,
+        "amount": 18,
+        "price": 32.9879
+      },
+      {
+        "id": 6,
+        "amount": 78,
+        "price": 59.8852
+      },
+      {
+        "id": 7,
+        "amount": 37,
+        "price": 77.4046
+      },
+      {
+        "id": 8,
+        "amount": 43,
+        "price": 94.513
+      },
+      {
+        "id": 9,
+        "amount": 66,
+        "price": 26.71
+      },
+      {
+        "id": 10,
+        "amount": 72,
+        "price": 78.8749
+      },
+      {
+        "id": 11,
+        "amount": 74,
+        "price": 39.6849
+      },
+      {
+        "id": 12,
+        "amount": 88,
+        "price": 59.1191
+      },
+      {
+        "id": 13,
+        "amount": 57,
+        "price": 15.926
+      },
+      {
+        "id": 14,
+        "amount": 54,
+        "price": 99.5377
+      },
+      {
+        "id": 15,
+        "amount": 23,
+        "price": 6.2975
+      }
+    ]
+  },
+  {
+    "name": "Store 23",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 57,
+        "price": 67.0964
+      },
+      {
+        "id": 2,
+        "amount": 55,
+        "price": 77.6709
+      },
+      {
+        "id": 3,
+        "amount": 75,
+        "price": 100.9195
+      },
+      {
+        "id": 4,
+        "amount": 16,
+        "price": 74.5757
+      },
+      {
+        "id": 5,
+        "amount": 42,
+        "price": 83.2246
+      },
+      {
+        "id": 6,
+        "amount": 12,
+        "price": 25.1654
+      },
+      {
+        "id": 7,
+        "amount": 32,
+        "price": 101.5517
+      },
+      {
+        "id": 8,
+        "amount": 12,
+        "price": 13.4024
+      },
+      {
+        "id": 9,
+        "amount": 71,
+        "price": 23.7738
+      },
+      {
+        "id": 10,
+        "amount": 97,
+        "price": 87.3926
+      },
+      {
+        "id": 11,
+        "amount": 58,
+        "price": 33.2156
+      },
+      {
+        "id": 12,
+        "amount": 82,
+        "price": 13.7425
+      },
+      {
+        "id": 13,
+        "amount": 30,
+        "price": 60.6338
+      },
+      {
+        "id": 14,
+        "amount": 8,
+        "price": 2.3227
+      },
+      {
+        "id": 15,
+        "amount": 68,
+        "price": 52.3109
+      }
+    ]
+  },
+  {
+    "name": "Store 24",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 2,
+        "price": 2.1249
+      },
+      {
+        "id": 2,
+        "amount": 17,
+        "price": 86.3857
+      },
+      {
+        "id": 3,
+        "amount": 20,
+        "price": 80.8987
+      },
+      {
+        "id": 4,
+        "amount": 20,
+        "price": 23.1489
+      },
+      {
+        "id": 5,
+        "amount": 66,
+        "price": 57.7402
+      },
+      {
+        "id": 6,
+        "amount": 40,
+        "price": 54.7846
+      },
+      {
+        "id": 7,
+        "amount": 46,
+        "price": 43.6489
+      },
+      {
+        "id": 8,
+        "amount": 76,
+        "price": 17.364
+      },
+      {
+        "id": 9,
+        "amount": 28,
+        "price": 66.5242
+      },
+      {
+        "id": 10,
+        "amount": 39,
+        "price": 57.0267
+      },
+      {
+        "id": 11,
+        "amount": 46,
+        "price": 29.2248
+      },
+      {
+        "id": 12,
+        "amount": 26,
+        "price": 57.6382
+      },
+      {
+        "id": 13,
+        "amount": 62,
+        "price": 43.1372
+      },
+      {
+        "id": 14,
+        "amount": 65,
+        "price": 18.7857
+      },
+      {
+        "id": 15,
+        "amount": 41,
+        "price": 46.5343
+      }
+    ]
+  },
+  {
+    "name": "Store 25",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 30,
+        "price": 72.0579
+      },
+      {
+        "id": 2,
+        "amount": 92,
+        "price": 8.8469
+      },
+      {
+        "id": 3,
+        "amount": 85,
+        "price": 53.0145
+      },
+      {
+        "id": 4,
+        "amount": 7,
+        "price": 101.3567
+      },
+      {
+        "id": 5,
+        "amount": 91,
+        "price": 73.2193
+      },
+      {
+        "id": 6,
+        "amount": 93,
+        "price": 70.7366
+      },
+      {
+        "id": 7,
+        "amount": 84,
+        "price": 77.9394
+      },
+      {
+        "id": 8,
+        "amount": 61,
+        "price": 98.2108
+      },
+      {
+        "id": 9,
+        "amount": 95,
+        "price": 44.9768
+      },
+      {
+        "id": 10,
+        "amount": 99,
+        "price": 75.9514
+      },
+      {
+        "id": 11,
+        "amount": 70,
+        "price": 69.4008
+      },
+      {
+        "id": 12,
+        "amount": 74,
+        "price": 98.8205
+      },
+      {
+        "id": 13,
+        "amount": 11,
+        "price": 22.3322
+      },
+      {
+        "id": 14,
+        "amount": 75,
+        "price": 100.9444
+      },
+      {
+        "id": 15,
+        "amount": 39,
+        "price": 11.2347
+      }
+    ]
+  },
+  {
+    "name": "Store 26",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 34,
+        "price": 101.2592
+      },
+      {
+        "id": 2,
+        "amount": 96,
+        "price": 42.071
+      },
+      {
+        "id": 3,
+        "amount": 69,
+        "price": 23.9939
+      },
+      {
+        "id": 4,
+        "amount": 8,
+        "price": 6.4212
+      },
+      {
+        "id": 5,
+        "amount": 7,
+        "price": 7.7328
+      },
+      {
+        "id": 6,
+        "amount": 70,
+        "price": 80.0082
+      },
+      {
+        "id": 7,
+        "amount": 51,
+        "price": 35.2924
+      },
+      {
+        "id": 8,
+        "amount": 76,
+        "price": 55.5007
+      },
+      {
+        "id": 9,
+        "amount": 45,
+        "price": 74.7366
+      },
+      {
+        "id": 10,
+        "amount": 27,
+        "price": 97.174
+      },
+      {
+        "id": 11,
+        "amount": 61,
+        "price": 35.9194
+      },
+      {
+        "id": 12,
+        "amount": 43,
+        "price": 88.8276
+      },
+      {
+        "id": 13,
+        "amount": 75,
+        "price": 78.2742
+      },
+      {
+        "id": 14,
+        "amount": 29,
+        "price": 100.8732
+      },
+      {
+        "id": 15,
+        "amount": 10,
+        "price": 45.3852
+      }
+    ]
+  },
+  {
+    "name": "Store 27",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 59,
+        "price": 36.1677
+      },
+      {
+        "id": 2,
+        "amount": 31,
+        "price": 97.0671
+      },
+      {
+        "id": 3,
+        "amount": 62,
+        "price": 26.3728
+      },
+      {
+        "id": 4,
+        "amount": 45,
+        "price": 99.5761
+      },
+      {
+        "id": 5,
+        "amount": 20,
+        "price": 55.1706
+      },
+      {
+        "id": 6,
+        "amount": 39,
+        "price": 14.738
+      },
+      {
+        "id": 7,
+        "amount": 59,
+        "price": 72.083
+      },
+      {
+        "id": 8,
+        "amount": 2,
+        "price": 29.2378
+      },
+      {
+        "id": 9,
+        "amount": 64,
+        "price": 91.6637
+      },
+      {
+        "id": 10,
+        "amount": 39,
+        "price": 11.276
+      },
+      {
+        "id": 11,
+        "amount": 70,
+        "price": 95.4119
+      },
+      {
+        "id": 12,
+        "amount": 78,
+        "price": 62.0485
+      },
+      {
+        "id": 13,
+        "amount": 21,
+        "price": 47.1882
+      },
+      {
+        "id": 14,
+        "amount": 51,
+        "price": 69.3556
+      },
+      {
+        "id": 15,
+        "amount": 11,
+        "price": 68.2283
+      }
+    ]
+  },
+  {
+    "name": "Store 28",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 43,
+        "price": 76.2559
       },
       {
         "id": 2,
         "amount": 23,
-        "price": 14.2
+        "price": 25.0655
+      },
+      {
+        "id": 3,
+        "amount": 70,
+        "price": 44.8657
+      },
+      {
+        "id": 4,
+        "amount": 42,
+        "price": 32.055
+      },
+      {
+        "id": 5,
+        "amount": 40,
+        "price": 38.7299
+      },
+      {
+        "id": 6,
+        "amount": 13,
+        "price": 29.4933
+      },
+      {
+        "id": 7,
+        "amount": 5,
+        "price": 93.746
+      },
+      {
+        "id": 8,
+        "amount": 82,
+        "price": 15.9932
+      },
+      {
+        "id": 9,
+        "amount": 12,
+        "price": 48.3883
+      },
+      {
+        "id": 10,
+        "amount": 57,
+        "price": 31.9978
+      },
+      {
+        "id": 11,
+        "amount": 54,
+        "price": 69.6301
+      },
+      {
+        "id": 12,
+        "amount": 91,
+        "price": 89.2226
+      },
+      {
+        "id": 13,
+        "amount": 8,
+        "price": 34.2883
+      },
+      {
+        "id": 14,
+        "amount": 37,
+        "price": 86.698
+      },
+      {
+        "id": 15,
+        "amount": 4,
+        "price": 99.3235
+      }
+    ]
+  },
+  {
+    "name": "Store 29",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 46,
+        "price": 28.9286
+      },
+      {
+        "id": 2,
+        "amount": 20,
+        "price": 94.1688
+      },
+      {
+        "id": 3,
+        "amount": 56,
+        "price": 47.8732
+      },
+      {
+        "id": 4,
+        "amount": 83,
+        "price": 76.038
+      },
+      {
+        "id": 5,
+        "amount": 61,
+        "price": 73.0114
+      },
+      {
+        "id": 6,
+        "amount": 95,
+        "price": 43.8218
+      },
+      {
+        "id": 7,
+        "amount": 27,
+        "price": 72.1226
+      },
+      {
+        "id": 8,
+        "amount": 48,
+        "price": 43.633
+      },
+      {
+        "id": 9,
+        "amount": 77,
+        "price": 93.7622
+      },
+      {
+        "id": 10,
+        "amount": 19,
+        "price": 37.7803
+      },
+      {
+        "id": 11,
+        "amount": 0,
+        "price": 89.2135
+      },
+      {
+        "id": 12,
+        "amount": 67,
+        "price": 21.8191
+      },
+      {
+        "id": 13,
+        "amount": 87,
+        "price": 25.5388
+      },
+      {
+        "id": 14,
+        "amount": 70,
+        "price": 3.3023
+      },
+      {
+        "id": 15,
+        "amount": 17,
+        "price": 30.9686
+      }
+    ]
+  },
+  {
+    "name": "Store 30",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 61,
+        "price": 19.1389
+      },
+      {
+        "id": 2,
+        "amount": 86,
+        "price": 17.8587
+      },
+      {
+        "id": 3,
+        "amount": 14,
+        "price": 8.764
+      },
+      {
+        "id": 4,
+        "amount": 71,
+        "price": 78.3517
+      },
+      {
+        "id": 5,
+        "amount": 8,
+        "price": 100.4505
+      },
+      {
+        "id": 6,
+        "amount": 59,
+        "price": 73.1228
+      },
+      {
+        "id": 7,
+        "amount": 38,
+        "price": 39.4225
+      },
+      {
+        "id": 8,
+        "amount": 98,
+        "price": 54.8982
+      },
+      {
+        "id": 9,
+        "amount": 18,
+        "price": 90.1906
+      },
+      {
+        "id": 10,
+        "amount": 32,
+        "price": 93.8659
+      },
+      {
+        "id": 11,
+        "amount": 65,
+        "price": 83.6903
+      },
+      {
+        "id": 12,
+        "amount": 33,
+        "price": 89.6789
+      },
+      {
+        "id": 13,
+        "amount": 44,
+        "price": 20.8342
+      },
+      {
+        "id": 14,
+        "amount": 52,
+        "price": 4.8334
+      },
+      {
+        "id": 15,
+        "amount": 66,
+        "price": 97.1061
+      }
+    ]
+  },
+  {
+    "name": "Store 31",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 85,
+        "price": 8.7569
+      },
+      {
+        "id": 2,
+        "amount": 75,
+        "price": 79.3016
+      },
+      {
+        "id": 3,
+        "amount": 44,
+        "price": 75.2703
+      },
+      {
+        "id": 4,
+        "amount": 52,
+        "price": 31.1385
+      },
+      {
+        "id": 5,
+        "amount": 38,
+        "price": 69.0576
+      },
+      {
+        "id": 6,
+        "amount": 82,
+        "price": 32.8865
+      },
+      {
+        "id": 7,
+        "amount": 63,
+        "price": 2.5745
+      },
+      {
+        "id": 8,
+        "amount": 33,
+        "price": 63.6056
+      },
+      {
+        "id": 9,
+        "amount": 56,
+        "price": 87.4066
+      },
+      {
+        "id": 10,
+        "amount": 74,
+        "price": 81.7668
+      },
+      {
+        "id": 11,
+        "amount": 17,
+        "price": 66.66
+      },
+      {
+        "id": 12,
+        "amount": 62,
+        "price": 17.5094
+      },
+      {
+        "id": 13,
+        "amount": 23,
+        "price": 96.1833
+      },
+      {
+        "id": 14,
+        "amount": 28,
+        "price": 80.2842
+      },
+      {
+        "id": 15,
+        "amount": 94,
+        "price": 23.3527
+      }
+    ]
+  },
+  {
+    "name": "Store 32",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 11,
+        "price": 29.2457
+      },
+      {
+        "id": 2,
+        "amount": 41,
+        "price": 31.449
+      },
+      {
+        "id": 3,
+        "amount": 85,
+        "price": 98.6634
+      },
+      {
+        "id": 4,
+        "amount": 23,
+        "price": 80.9474
+      },
+      {
+        "id": 5,
+        "amount": 95,
+        "price": 23.8276
+      },
+      {
+        "id": 6,
+        "amount": 99,
+        "price": 47.2704
+      },
+      {
+        "id": 7,
+        "amount": 62,
+        "price": 82.9469
+      },
+      {
+        "id": 8,
+        "amount": 60,
+        "price": 59.7133
+      },
+      {
+        "id": 9,
+        "amount": 88,
+        "price": 49.3657
+      },
+      {
+        "id": 10,
+        "amount": 82,
+        "price": 30.7811
+      },
+      {
+        "id": 11,
+        "amount": 26,
+        "price": 71.2681
+      },
+      {
+        "id": 12,
+        "amount": 87,
+        "price": 11.0391
+      },
+      {
+        "id": 13,
+        "amount": 24,
+        "price": 85.7365
+      },
+      {
+        "id": 14,
+        "amount": 38,
+        "price": 91.8533
+      },
+      {
+        "id": 15,
+        "amount": 70,
+        "price": 39.0896
+      }
+    ]
+  },
+  {
+    "name": "Store 33",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 39,
+        "price": 55.637
+      },
+      {
+        "id": 2,
+        "amount": 56,
+        "price": 101.7508
+      },
+      {
+        "id": 3,
+        "amount": 5,
+        "price": 10.804
+      },
+      {
+        "id": 4,
+        "amount": 50,
+        "price": 95.5199
+      },
+      {
+        "id": 5,
+        "amount": 60,
+        "price": 44.4977
+      },
+      {
+        "id": 6,
+        "amount": 83,
+        "price": 95.3409
+      },
+      {
+        "id": 7,
+        "amount": 65,
+        "price": 20.22
+      },
+      {
+        "id": 8,
+        "amount": 29,
+        "price": 94.464
+      },
+      {
+        "id": 9,
+        "amount": 49,
+        "price": 82.4032
+      },
+      {
+        "id": 10,
+        "amount": 43,
+        "price": 66.3303
+      },
+      {
+        "id": 11,
+        "amount": 42,
+        "price": 74.1963
+      },
+      {
+        "id": 12,
+        "amount": 59,
+        "price": 43.6012
+      },
+      {
+        "id": 13,
+        "amount": 68,
+        "price": 97.4521
+      },
+      {
+        "id": 14,
+        "amount": 70,
+        "price": 54.2025
+      },
+      {
+        "id": 15,
+        "amount": 59,
+        "price": 13.5176
+      }
+    ]
+  },
+  {
+    "name": "Store 34",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 48,
+        "price": 27.0278
+      },
+      {
+        "id": 2,
+        "amount": 1,
+        "price": 40.9314
+      },
+      {
+        "id": 3,
+        "amount": 64,
+        "price": 22.5201
+      },
+      {
+        "id": 4,
+        "amount": 43,
+        "price": 36.9274
+      },
+      {
+        "id": 5,
+        "amount": 90,
+        "price": 69.3761
+      },
+      {
+        "id": 6,
+        "amount": 55,
+        "price": 63.3783
+      },
+      {
+        "id": 7,
+        "amount": 79,
+        "price": 14.9421
+      },
+      {
+        "id": 8,
+        "amount": 58,
+        "price": 71.3771
+      },
+      {
+        "id": 9,
+        "amount": 64,
+        "price": 95.7724
+      },
+      {
+        "id": 10,
+        "amount": 45,
+        "price": 5.7749
+      },
+      {
+        "id": 11,
+        "amount": 64,
+        "price": 20.9497
+      },
+      {
+        "id": 12,
+        "amount": 39,
+        "price": 11.6842
+      },
+      {
+        "id": 13,
+        "amount": 27,
+        "price": 14.9677
+      },
+      {
+        "id": 14,
+        "amount": 34,
+        "price": 73.3935
+      },
+      {
+        "id": 15,
+        "amount": 66,
+        "price": 47.1282
+      }
+    ]
+  },
+  {
+    "name": "Store 35",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 59,
+        "price": 91.3276
+      },
+      {
+        "id": 2,
+        "amount": 10,
+        "price": 86.2533
+      },
+      {
+        "id": 3,
+        "amount": 33,
+        "price": 75.1676
+      },
+      {
+        "id": 4,
+        "amount": 0,
+        "price": 36.3742
+      },
+      {
+        "id": 5,
+        "amount": 93,
+        "price": 5.6137
+      },
+      {
+        "id": 6,
+        "amount": 19,
+        "price": 23.4188
+      },
+      {
+        "id": 7,
+        "amount": 18,
+        "price": 35.3001
+      },
+      {
+        "id": 8,
+        "amount": 68,
+        "price": 21.6235
+      },
+      {
+        "id": 9,
+        "amount": 39,
+        "price": 54.1705
+      },
+      {
+        "id": 10,
+        "amount": 63,
+        "price": 97.5138
+      },
+      {
+        "id": 11,
+        "amount": 82,
+        "price": 50.4064
+      },
+      {
+        "id": 12,
+        "amount": 58,
+        "price": 9.5577
+      },
+      {
+        "id": 13,
+        "amount": 40,
+        "price": 100.8972
+      },
+      {
+        "id": 14,
+        "amount": 45,
+        "price": 34.4158
+      },
+      {
+        "id": 15,
+        "amount": 99,
+        "price": 63.3049
+      }
+    ]
+  },
+  {
+    "name": "Store 36",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 33,
+        "price": 62.8146
+      },
+      {
+        "id": 2,
+        "amount": 16,
+        "price": 19.7257
+      },
+      {
+        "id": 3,
+        "amount": 90,
+        "price": 22.1417
+      },
+      {
+        "id": 4,
+        "amount": 49,
+        "price": 58.5648
+      },
+      {
+        "id": 5,
+        "amount": 23,
+        "price": 86.8806
+      },
+      {
+        "id": 6,
+        "amount": 28,
+        "price": 61.3392
+      },
+      {
+        "id": 7,
+        "amount": 84,
+        "price": 71.6959
+      },
+      {
+        "id": 8,
+        "amount": 40,
+        "price": 7.254
+      },
+      {
+        "id": 9,
+        "amount": 36,
+        "price": 61.8739
+      },
+      {
+        "id": 10,
+        "amount": 77,
+        "price": 54.2851
+      },
+      {
+        "id": 11,
+        "amount": 72,
+        "price": 40.22
+      },
+      {
+        "id": 12,
+        "amount": 18,
+        "price": 43.6937
+      },
+      {
+        "id": 13,
+        "amount": 36,
+        "price": 45.1308
+      },
+      {
+        "id": 14,
+        "amount": 77,
+        "price": 38.1759
+      },
+      {
+        "id": 15,
+        "amount": 77,
+        "price": 44.0378
+      }
+    ]
+  },
+  {
+    "name": "Store 37",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 14,
+        "price": 14.8178
+      },
+      {
+        "id": 2,
+        "amount": 89,
+        "price": 20.1017
+      },
+      {
+        "id": 3,
+        "amount": 22,
+        "price": 39.8387
+      },
+      {
+        "id": 4,
+        "amount": 44,
+        "price": 67.6569
+      },
+      {
+        "id": 5,
+        "amount": 27,
+        "price": 67.0392
+      },
+      {
+        "id": 6,
+        "amount": 60,
+        "price": 83.075
+      },
+      {
+        "id": 7,
+        "amount": 54,
+        "price": 78.2202
+      },
+      {
+        "id": 8,
+        "amount": 99,
+        "price": 71.8629
+      },
+      {
+        "id": 9,
+        "amount": 98,
+        "price": 71.9043
+      },
+      {
+        "id": 10,
+        "amount": 11,
+        "price": 73.7785
+      },
+      {
+        "id": 11,
+        "amount": 35,
+        "price": 67.3758
+      },
+      {
+        "id": 12,
+        "amount": 88,
+        "price": 65.3459
+      },
+      {
+        "id": 13,
+        "amount": 16,
+        "price": 67.494
+      },
+      {
+        "id": 14,
+        "amount": 34,
+        "price": 97.386
+      },
+      {
+        "id": 15,
+        "amount": 47,
+        "price": 24.6446
+      }
+    ]
+  },
+  {
+    "name": "Store 38",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 93,
+        "price": 59.8405
+      },
+      {
+        "id": 2,
+        "amount": 89,
+        "price": 62.9778
+      },
+      {
+        "id": 3,
+        "amount": 76,
+        "price": 48.1365
+      },
+      {
+        "id": 4,
+        "amount": 72,
+        "price": 81.6941
+      },
+      {
+        "id": 5,
+        "amount": 30,
+        "price": 71.1559
+      },
+      {
+        "id": 6,
+        "amount": 79,
+        "price": 48.3654
+      },
+      {
+        "id": 7,
+        "amount": 97,
+        "price": 101.5203
+      },
+      {
+        "id": 8,
+        "amount": 43,
+        "price": 55.524
+      },
+      {
+        "id": 9,
+        "amount": 85,
+        "price": 78.6603
+      },
+      {
+        "id": 10,
+        "amount": 3,
+        "price": 32.7422
+      },
+      {
+        "id": 11,
+        "amount": 39,
+        "price": 82.95
+      },
+      {
+        "id": 12,
+        "amount": 74,
+        "price": 89.5133
+      },
+      {
+        "id": 13,
+        "amount": 44,
+        "price": 8.7025
+      },
+      {
+        "id": 14,
+        "amount": 27,
+        "price": 95.6462
+      },
+      {
+        "id": 15,
+        "amount": 16,
+        "price": 69.0382
+      }
+    ]
+  },
+  {
+    "name": "Store 39",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 10,
+        "price": 31.3596
+      },
+      {
+        "id": 2,
+        "amount": 85,
+        "price": 59.5031
+      },
+      {
+        "id": 3,
+        "amount": 37,
+        "price": 45.0693
+      },
+      {
+        "id": 4,
+        "amount": 60,
+        "price": 20.9145
+      },
+      {
+        "id": 5,
+        "amount": 36,
+        "price": 97.3631
+      },
+      {
+        "id": 6,
+        "amount": 29,
+        "price": 71.2493
+      },
+      {
+        "id": 7,
+        "amount": 57,
+        "price": 68.3938
+      },
+      {
+        "id": 8,
+        "amount": 94,
+        "price": 35.4137
+      },
+      {
+        "id": 9,
+        "amount": 17,
+        "price": 39.6465
+      },
+      {
+        "id": 10,
+        "amount": 45,
+        "price": 89.9214
+      },
+      {
+        "id": 11,
+        "amount": 90,
+        "price": 60.6614
+      },
+      {
+        "id": 12,
+        "amount": 14,
+        "price": 74.9317
+      },
+      {
+        "id": 13,
+        "amount": 89,
+        "price": 56.058
+      },
+      {
+        "id": 14,
+        "amount": 19,
+        "price": 79.5844
+      },
+      {
+        "id": 15,
+        "amount": 73,
+        "price": 30.3552
+      }
+    ]
+  },
+  {
+    "name": "Store 40",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 96,
+        "price": 51.2916
+      },
+      {
+        "id": 2,
+        "amount": 6,
+        "price": 65.5654
+      },
+      {
+        "id": 3,
+        "amount": 48,
+        "price": 39.4532
+      },
+      {
+        "id": 4,
+        "amount": 65,
+        "price": 85.8809
+      },
+      {
+        "id": 5,
+        "amount": 83,
+        "price": 17.4976
+      },
+      {
+        "id": 6,
+        "amount": 55,
+        "price": 5.0651
+      },
+      {
+        "id": 7,
+        "amount": 90,
+        "price": 58.7512
+      },
+      {
+        "id": 8,
+        "amount": 8,
+        "price": 26.3212
+      },
+      {
+        "id": 9,
+        "amount": 49,
+        "price": 61.3366
+      },
+      {
+        "id": 10,
+        "amount": 73,
+        "price": 10.3576
+      },
+      {
+        "id": 11,
+        "amount": 42,
+        "price": 80.0397
+      },
+      {
+        "id": 12,
+        "amount": 40,
+        "price": 52.1761
+      },
+      {
+        "id": 13,
+        "amount": 68,
+        "price": 7.6287
+      },
+      {
+        "id": 14,
+        "amount": 88,
+        "price": 44.1472
+      },
+      {
+        "id": 15,
+        "amount": 64,
+        "price": 48.4042
+      }
+    ]
+  },
+  {
+    "name": "Store 41",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 85,
+        "price": 56.0951
+      },
+      {
+        "id": 2,
+        "amount": 62,
+        "price": 91.1554
+      },
+      {
+        "id": 3,
+        "amount": 9,
+        "price": 88.67
+      },
+      {
+        "id": 4,
+        "amount": 81,
+        "price": 46.7019
+      },
+      {
+        "id": 5,
+        "amount": 86,
+        "price": 93.1359
+      },
+      {
+        "id": 6,
+        "amount": 99,
+        "price": 5.7232
+      },
+      {
+        "id": 7,
+        "amount": 55,
+        "price": 39.5764
+      },
+      {
+        "id": 8,
+        "amount": 93,
+        "price": 37.1709
+      },
+      {
+        "id": 9,
+        "amount": 80,
+        "price": 73.3568
+      },
+      {
+        "id": 10,
+        "amount": 0,
+        "price": 27.3907
+      },
+      {
+        "id": 11,
+        "amount": 14,
+        "price": 96.4
+      },
+      {
+        "id": 12,
+        "amount": 62,
+        "price": 55.9849
+      },
+      {
+        "id": 13,
+        "amount": 61,
+        "price": 16.2496
+      },
+      {
+        "id": 14,
+        "amount": 74,
+        "price": 58.7778
+      },
+      {
+        "id": 15,
+        "amount": 7,
+        "price": 23.5626
+      }
+    ]
+  },
+  {
+    "name": "Store 42",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 37,
+        "price": 79.5611
+      },
+      {
+        "id": 2,
+        "amount": 81,
+        "price": 96.4417
+      },
+      {
+        "id": 3,
+        "amount": 40,
+        "price": 75.1977
+      },
+      {
+        "id": 4,
+        "amount": 18,
+        "price": 2.272
+      },
+      {
+        "id": 5,
+        "amount": 20,
+        "price": 86.2384
+      },
+      {
+        "id": 6,
+        "amount": 81,
+        "price": 50.0687
+      },
+      {
+        "id": 7,
+        "amount": 60,
+        "price": 42.56
+      },
+      {
+        "id": 8,
+        "amount": 88,
+        "price": 59.0646
+      },
+      {
+        "id": 9,
+        "amount": 14,
+        "price": 51.7918
+      },
+      {
+        "id": 10,
+        "amount": 68,
+        "price": 54.4832
+      },
+      {
+        "id": 11,
+        "amount": 1,
+        "price": 57.8282
+      },
+      {
+        "id": 12,
+        "amount": 77,
+        "price": 48.434
+      },
+      {
+        "id": 13,
+        "amount": 50,
+        "price": 62.8444
+      },
+      {
+        "id": 14,
+        "amount": 76,
+        "price": 11.8654
+      },
+      {
+        "id": 15,
+        "amount": 4,
+        "price": 47.2515
+      }
+    ]
+  },
+  {
+    "name": "Store 43",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 32,
+        "price": 17.4862
+      },
+      {
+        "id": 2,
+        "amount": 37,
+        "price": 20.7722
+      },
+      {
+        "id": 3,
+        "amount": 14,
+        "price": 59.8377
+      },
+      {
+        "id": 4,
+        "amount": 6,
+        "price": 62.4804
+      },
+      {
+        "id": 5,
+        "amount": 18,
+        "price": 18.3401
+      },
+      {
+        "id": 6,
+        "amount": 43,
+        "price": 27.2519
+      },
+      {
+        "id": 7,
+        "amount": 15,
+        "price": 100.943
+      },
+      {
+        "id": 8,
+        "amount": 53,
+        "price": 10.8367
+      },
+      {
+        "id": 9,
+        "amount": 92,
+        "price": 101.6186
+      },
+      {
+        "id": 10,
+        "amount": 57,
+        "price": 20.4798
+      },
+      {
+        "id": 11,
+        "amount": 64,
+        "price": 22.3514
+      },
+      {
+        "id": 12,
+        "amount": 60,
+        "price": 45.671
+      },
+      {
+        "id": 13,
+        "amount": 88,
+        "price": 97.3648
+      },
+      {
+        "id": 14,
+        "amount": 85,
+        "price": 34.9285
+      },
+      {
+        "id": 15,
+        "amount": 62,
+        "price": 68.6717
+      }
+    ]
+  },
+  {
+    "name": "Store 44",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 60,
+        "price": 83.0025
+      },
+      {
+        "id": 2,
+        "amount": 60,
+        "price": 27.743
+      },
+      {
+        "id": 3,
+        "amount": 10,
+        "price": 13.4972
+      },
+      {
+        "id": 4,
+        "amount": 6,
+        "price": 58.2508
+      },
+      {
+        "id": 5,
+        "amount": 73,
+        "price": 23.6274
+      },
+      {
+        "id": 6,
+        "amount": 39,
+        "price": 73.12
+      },
+      {
+        "id": 7,
+        "amount": 34,
+        "price": 34.6648
+      },
+      {
+        "id": 8,
+        "amount": 20,
+        "price": 41.2275
+      },
+      {
+        "id": 9,
+        "amount": 8,
+        "price": 41.6948
+      },
+      {
+        "id": 10,
+        "amount": 75,
+        "price": 18.0916
+      },
+      {
+        "id": 11,
+        "amount": 8,
+        "price": 61.8463
+      },
+      {
+        "id": 12,
+        "amount": 5,
+        "price": 79.5228
+      },
+      {
+        "id": 13,
+        "amount": 4,
+        "price": 60.3596
+      },
+      {
+        "id": 14,
+        "amount": 50,
+        "price": 52.6688
+      },
+      {
+        "id": 15,
+        "amount": 2,
+        "price": 21.6476
+      }
+    ]
+  },
+  {
+    "name": "Store 45",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 70,
+        "price": 50.9338
+      },
+      {
+        "id": 2,
+        "amount": 55,
+        "price": 83.9425
+      },
+      {
+        "id": 3,
+        "amount": 48,
+        "price": 80.8004
+      },
+      {
+        "id": 4,
+        "amount": 73,
+        "price": 43.9341
+      },
+      {
+        "id": 5,
+        "amount": 14,
+        "price": 99.5018
+      },
+      {
+        "id": 6,
+        "amount": 85,
+        "price": 70.2076
+      },
+      {
+        "id": 7,
+        "amount": 53,
+        "price": 97.9522
+      },
+      {
+        "id": 8,
+        "amount": 73,
+        "price": 80.5506
+      },
+      {
+        "id": 9,
+        "amount": 86,
+        "price": 18.4109
+      },
+      {
+        "id": 10,
+        "amount": 12,
+        "price": 47.1579
+      },
+      {
+        "id": 11,
+        "amount": 56,
+        "price": 35.8702
+      },
+      {
+        "id": 12,
+        "amount": 63,
+        "price": 90.4033
+      },
+      {
+        "id": 13,
+        "amount": 8,
+        "price": 85.2907
+      },
+      {
+        "id": 14,
+        "amount": 77,
+        "price": 84.3839
+      },
+      {
+        "id": 15,
+        "amount": 7,
+        "price": 27.6681
+      }
+    ]
+  },
+  {
+    "name": "Store 46",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 30,
+        "price": 48.5154
+      },
+      {
+        "id": 2,
+        "amount": 29,
+        "price": 25.6479
+      },
+      {
+        "id": 3,
+        "amount": 62,
+        "price": 79.5207
+      },
+      {
+        "id": 4,
+        "amount": 82,
+        "price": 95.9463
+      },
+      {
+        "id": 5,
+        "amount": 81,
+        "price": 71.8972
+      },
+      {
+        "id": 6,
+        "amount": 81,
+        "price": 79.306
+      },
+      {
+        "id": 7,
+        "amount": 87,
+        "price": 74.5704
+      },
+      {
+        "id": 8,
+        "amount": 18,
+        "price": 66.9572
+      },
+      {
+        "id": 9,
+        "amount": 97,
+        "price": 77.7819
+      },
+      {
+        "id": 10,
+        "amount": 97,
+        "price": 17.675
+      },
+      {
+        "id": 11,
+        "amount": 22,
+        "price": 80.828
+      },
+      {
+        "id": 12,
+        "amount": 57,
+        "price": 89.8418
+      },
+      {
+        "id": 13,
+        "amount": 82,
+        "price": 92.7405
+      },
+      {
+        "id": 14,
+        "amount": 43,
+        "price": 48.8136
+      },
+      {
+        "id": 15,
+        "amount": 84,
+        "price": 94.3347
+      }
+    ]
+  },
+  {
+    "name": "Store 47",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 23,
+        "price": 8.7542
+      },
+      {
+        "id": 2,
+        "amount": 87,
+        "price": 51.6559
+      },
+      {
+        "id": 3,
+        "amount": 68,
+        "price": 26.9063
+      },
+      {
+        "id": 4,
+        "amount": 17,
+        "price": 20.4764
+      },
+      {
+        "id": 5,
+        "amount": 92,
+        "price": 23.8796
+      },
+      {
+        "id": 6,
+        "amount": 80,
+        "price": 58.7269
+      },
+      {
+        "id": 7,
+        "amount": 63,
+        "price": 16.0825
+      },
+      {
+        "id": 8,
+        "amount": 63,
+        "price": 82.2631
+      },
+      {
+        "id": 9,
+        "amount": 8,
+        "price": 27.35
+      },
+      {
+        "id": 10,
+        "amount": 13,
+        "price": 25.1936
+      },
+      {
+        "id": 11,
+        "amount": 12,
+        "price": 85.0862
+      },
+      {
+        "id": 12,
+        "amount": 27,
+        "price": 34.3135
+      },
+      {
+        "id": 13,
+        "amount": 47,
+        "price": 35.817
+      },
+      {
+        "id": 14,
+        "amount": 53,
+        "price": 93.6451
+      },
+      {
+        "id": 15,
+        "amount": 89,
+        "price": 2.7858
+      }
+    ]
+  },
+  {
+    "name": "Store 48",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 97,
+        "price": 98.6277
+      },
+      {
+        "id": 2,
+        "amount": 96,
+        "price": 87.5956
+      },
+      {
+        "id": 3,
+        "amount": 89,
+        "price": 2.949
+      },
+      {
+        "id": 4,
+        "amount": 4,
+        "price": 17.8698
+      },
+      {
+        "id": 5,
+        "amount": 51,
+        "price": 76.0533
+      },
+      {
+        "id": 6,
+        "amount": 29,
+        "price": 100.4835
+      },
+      {
+        "id": 7,
+        "amount": 7,
+        "price": 93.3813
+      },
+      {
+        "id": 8,
+        "amount": 71,
+        "price": 14.4602
+      },
+      {
+        "id": 9,
+        "amount": 73,
+        "price": 59.6927
+      },
+      {
+        "id": 10,
+        "amount": 84,
+        "price": 21.0074
+      },
+      {
+        "id": 11,
+        "amount": 25,
+        "price": 90.5222
+      },
+      {
+        "id": 12,
+        "amount": 97,
+        "price": 23.451
+      },
+      {
+        "id": 13,
+        "amount": 26,
+        "price": 66.1986
+      },
+      {
+        "id": 14,
+        "amount": 8,
+        "price": 36.5533
+      },
+      {
+        "id": 15,
+        "amount": 70,
+        "price": 57.2953
+      }
+    ]
+  },
+  {
+    "name": "Store 49",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 67,
+        "price": 50.6306
+      },
+      {
+        "id": 2,
+        "amount": 87,
+        "price": 94.8297
+      },
+      {
+        "id": 3,
+        "amount": 43,
+        "price": 7.0494
+      },
+      {
+        "id": 4,
+        "amount": 95,
+        "price": 93.7054
+      },
+      {
+        "id": 5,
+        "amount": 99,
+        "price": 95.5806
+      },
+      {
+        "id": 6,
+        "amount": 92,
+        "price": 57.7732
+      },
+      {
+        "id": 7,
+        "amount": 35,
+        "price": 66.5943
+      },
+      {
+        "id": 8,
+        "amount": 37,
+        "price": 76.3215
+      },
+      {
+        "id": 9,
+        "amount": 9,
+        "price": 21.9031
+      },
+      {
+        "id": 10,
+        "amount": 61,
+        "price": 23.342
+      },
+      {
+        "id": 11,
+        "amount": 18,
+        "price": 66.3299
+      },
+      {
+        "id": 12,
+        "amount": 17,
+        "price": 51.1578
+      },
+      {
+        "id": 13,
+        "amount": 24,
+        "price": 61.6257
+      },
+      {
+        "id": 14,
+        "amount": 17,
+        "price": 59.7947
+      },
+      {
+        "id": 15,
+        "amount": 93,
+        "price": 28.8893
+      }
+    ]
+  },
+  {
+    "name": "Store 50",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 56,
+        "price": 8.9791
+      },
+      {
+        "id": 2,
+        "amount": 20,
+        "price": 53.3478
+      },
+      {
+        "id": 3,
+        "amount": 13,
+        "price": 50.674
+      },
+      {
+        "id": 4,
+        "amount": 51,
+        "price": 28.3246
+      },
+      {
+        "id": 5,
+        "amount": 81,
+        "price": 15.6098
+      },
+      {
+        "id": 6,
+        "amount": 67,
+        "price": 53.7162
+      },
+      {
+        "id": 7,
+        "amount": 55,
+        "price": 8.7764
+      },
+      {
+        "id": 8,
+        "amount": 63,
+        "price": 69.0631
+      },
+      {
+        "id": 9,
+        "amount": 43,
+        "price": 72.9177
+      },
+      {
+        "id": 10,
+        "amount": 79,
+        "price": 17.0104
+      },
+      {
+        "id": 11,
+        "amount": 72,
+        "price": 4.0112
+      },
+      {
+        "id": 12,
+        "amount": 24,
+        "price": 15.9818
+      },
+      {
+        "id": 13,
+        "amount": 51,
+        "price": 21.1039
+      },
+      {
+        "id": 14,
+        "amount": 72,
+        "price": 50.5715
+      },
+      {
+        "id": 15,
+        "amount": 68,
+        "price": 12.7245
+      }
+    ]
+  },
+  {
+    "name": "Store 51",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 3,
+        "price": 9.2408
+      },
+      {
+        "id": 2,
+        "amount": 74,
+        "price": 35.2247
+      },
+      {
+        "id": 3,
+        "amount": 65,
+        "price": 14.688
+      },
+      {
+        "id": 4,
+        "amount": 87,
+        "price": 76.7884
+      },
+      {
+        "id": 5,
+        "amount": 21,
+        "price": 73.8674
+      },
+      {
+        "id": 6,
+        "amount": 43,
+        "price": 69.8689
+      },
+      {
+        "id": 7,
+        "amount": 36,
+        "price": 64.4471
+      },
+      {
+        "id": 8,
+        "amount": 89,
+        "price": 7.8752
+      },
+      {
+        "id": 9,
+        "amount": 20,
+        "price": 53.4085
+      },
+      {
+        "id": 10,
+        "amount": 91,
+        "price": 11.7474
+      },
+      {
+        "id": 11,
+        "amount": 69,
+        "price": 64.5244
+      },
+      {
+        "id": 12,
+        "amount": 0,
+        "price": 94.8617
+      },
+      {
+        "id": 13,
+        "amount": 6,
+        "price": 14.7417
+      },
+      {
+        "id": 14,
+        "amount": 62,
+        "price": 36.5826
+      },
+      {
+        "id": 15,
+        "amount": 79,
+        "price": 12.6802
+      }
+    ]
+  },
+  {
+    "name": "Store 52",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 48,
+        "price": 40.7071
+      },
+      {
+        "id": 2,
+        "amount": 58,
+        "price": 75.2253
+      },
+      {
+        "id": 3,
+        "amount": 42,
+        "price": 63.6727
+      },
+      {
+        "id": 4,
+        "amount": 2,
+        "price": 22.3095
+      },
+      {
+        "id": 5,
+        "amount": 87,
+        "price": 66.0578
+      },
+      {
+        "id": 6,
+        "amount": 76,
+        "price": 62.3267
+      },
+      {
+        "id": 7,
+        "amount": 95,
+        "price": 95.7727
+      },
+      {
+        "id": 8,
+        "amount": 56,
+        "price": 99.0928
+      },
+      {
+        "id": 9,
+        "amount": 26,
+        "price": 50.0872
+      },
+      {
+        "id": 10,
+        "amount": 5,
+        "price": 67.301
+      },
+      {
+        "id": 11,
+        "amount": 30,
+        "price": 67.9033
+      },
+      {
+        "id": 12,
+        "amount": 84,
+        "price": 14.7161
+      },
+      {
+        "id": 13,
+        "amount": 29,
+        "price": 101.1675
+      },
+      {
+        "id": 14,
+        "amount": 57,
+        "price": 40.3193
+      },
+      {
+        "id": 15,
+        "amount": 45,
+        "price": 101.9217
+      }
+    ]
+  },
+  {
+    "name": "Store 53",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 13,
+        "price": 57.4283
+      },
+      {
+        "id": 2,
+        "amount": 46,
+        "price": 100.5614
+      },
+      {
+        "id": 3,
+        "amount": 86,
+        "price": 14.339
+      },
+      {
+        "id": 4,
+        "amount": 78,
+        "price": 14.0658
+      },
+      {
+        "id": 5,
+        "amount": 33,
+        "price": 48.7561
+      },
+      {
+        "id": 6,
+        "amount": 2,
+        "price": 77.3836
+      },
+      {
+        "id": 7,
+        "amount": 75,
+        "price": 90.6673
+      },
+      {
+        "id": 8,
+        "amount": 7,
+        "price": 81.3101
+      },
+      {
+        "id": 9,
+        "amount": 54,
+        "price": 58.5127
+      },
+      {
+        "id": 10,
+        "amount": 23,
+        "price": 94.907
+      },
+      {
+        "id": 11,
+        "amount": 87,
+        "price": 16.7478
+      },
+      {
+        "id": 12,
+        "amount": 29,
+        "price": 41.3209
+      },
+      {
+        "id": 13,
+        "amount": 7,
+        "price": 61.3045
+      },
+      {
+        "id": 14,
+        "amount": 9,
+        "price": 36.4375
+      },
+      {
+        "id": 15,
+        "amount": 48,
+        "price": 25.8112
+      }
+    ]
+  },
+  {
+    "name": "Store 54",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 12,
+        "price": 38.9572
+      },
+      {
+        "id": 2,
+        "amount": 70,
+        "price": 14.9433
+      },
+      {
+        "id": 3,
+        "amount": 70,
+        "price": 24.0291
+      },
+      {
+        "id": 4,
+        "amount": 50,
+        "price": 3.3981
+      },
+      {
+        "id": 5,
+        "amount": 85,
+        "price": 43.3305
+      },
+      {
+        "id": 6,
+        "amount": 23,
+        "price": 36.6478
+      },
+      {
+        "id": 7,
+        "amount": 53,
+        "price": 5.2278
+      },
+      {
+        "id": 8,
+        "amount": 99,
+        "price": 14.154
+      },
+      {
+        "id": 9,
+        "amount": 14,
+        "price": 32.6994
+      },
+      {
+        "id": 10,
+        "amount": 88,
+        "price": 47.7631
+      },
+      {
+        "id": 11,
+        "amount": 74,
+        "price": 90.1382
+      },
+      {
+        "id": 12,
+        "amount": 44,
+        "price": 75.4034
+      },
+      {
+        "id": 13,
+        "amount": 51,
+        "price": 60.0321
+      },
+      {
+        "id": 14,
+        "amount": 10,
+        "price": 32.3148
+      },
+      {
+        "id": 15,
+        "amount": 18,
+        "price": 67.7572
+      }
+    ]
+  },
+  {
+    "name": "Store 55",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 82,
+        "price": 60.08
+      },
+      {
+        "id": 2,
+        "amount": 97,
+        "price": 11.984
+      },
+      {
+        "id": 3,
+        "amount": 57,
+        "price": 16.6203
+      },
+      {
+        "id": 4,
+        "amount": 75,
+        "price": 56.3807
+      },
+      {
+        "id": 5,
+        "amount": 21,
+        "price": 80.3438
+      },
+      {
+        "id": 6,
+        "amount": 50,
+        "price": 100.8121
+      },
+      {
+        "id": 7,
+        "amount": 8,
+        "price": 83.3312
+      },
+      {
+        "id": 8,
+        "amount": 23,
+        "price": 57.4187
+      },
+      {
+        "id": 9,
+        "amount": 75,
+        "price": 71.6129
+      },
+      {
+        "id": 10,
+        "amount": 47,
+        "price": 63.197
+      },
+      {
+        "id": 11,
+        "amount": 15,
+        "price": 68.2388
+      },
+      {
+        "id": 12,
+        "amount": 11,
+        "price": 85.0952
+      },
+      {
+        "id": 13,
+        "amount": 44,
+        "price": 20.2825
+      },
+      {
+        "id": 14,
+        "amount": 89,
+        "price": 61.0406
+      },
+      {
+        "id": 15,
+        "amount": 40,
+        "price": 83.1656
+      }
+    ]
+  },
+  {
+    "name": "Store 56",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 13,
+        "price": 89.5175
+      },
+      {
+        "id": 2,
+        "amount": 48,
+        "price": 36.1151
+      },
+      {
+        "id": 3,
+        "amount": 51,
+        "price": 33.4599
+      },
+      {
+        "id": 4,
+        "amount": 13,
+        "price": 98.0392
+      },
+      {
+        "id": 5,
+        "amount": 51,
+        "price": 52.7777
+      },
+      {
+        "id": 6,
+        "amount": 73,
+        "price": 3.4314
+      },
+      {
+        "id": 7,
+        "amount": 40,
+        "price": 51.503
+      },
+      {
+        "id": 8,
+        "amount": 85,
+        "price": 77.5945
+      },
+      {
+        "id": 9,
+        "amount": 18,
+        "price": 20.7455
+      },
+      {
+        "id": 10,
+        "amount": 43,
+        "price": 72.365
+      },
+      {
+        "id": 11,
+        "amount": 98,
+        "price": 34.6305
+      },
+      {
+        "id": 12,
+        "amount": 32,
+        "price": 66.6227
+      },
+      {
+        "id": 13,
+        "amount": 67,
+        "price": 11.2069
+      },
+      {
+        "id": 14,
+        "amount": 19,
+        "price": 57.4596
+      },
+      {
+        "id": 15,
+        "amount": 83,
+        "price": 80.2148
+      }
+    ]
+  },
+  {
+    "name": "Store 57",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 0,
+        "price": 57.8824
+      },
+      {
+        "id": 2,
+        "amount": 64,
+        "price": 93.8676
+      },
+      {
+        "id": 3,
+        "amount": 78,
+        "price": 30.6474
+      },
+      {
+        "id": 4,
+        "amount": 88,
+        "price": 40.1673
+      },
+      {
+        "id": 5,
+        "amount": 5,
+        "price": 92.1214
+      },
+      {
+        "id": 6,
+        "amount": 74,
+        "price": 81.8947
+      },
+      {
+        "id": 7,
+        "amount": 21,
+        "price": 37.7952
+      },
+      {
+        "id": 8,
+        "amount": 72,
+        "price": 54.3306
+      },
+      {
+        "id": 9,
+        "amount": 53,
+        "price": 41.6958
+      },
+      {
+        "id": 10,
+        "amount": 78,
+        "price": 86.0025
+      },
+      {
+        "id": 11,
+        "amount": 67,
+        "price": 47.4301
+      },
+      {
+        "id": 12,
+        "amount": 76,
+        "price": 10.0775
+      },
+      {
+        "id": 13,
+        "amount": 23,
+        "price": 72.7075
+      },
+      {
+        "id": 14,
+        "amount": 7,
+        "price": 93.3653
+      },
+      {
+        "id": 15,
+        "amount": 87,
+        "price": 50.966
+      }
+    ]
+  },
+  {
+    "name": "Store 58",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 4,
+        "price": 92.4455
+      },
+      {
+        "id": 2,
+        "amount": 61,
+        "price": 4.3766
+      },
+      {
+        "id": 3,
+        "amount": 47,
+        "price": 31.8851
+      },
+      {
+        "id": 4,
+        "amount": 61,
+        "price": 47.798
+      },
+      {
+        "id": 5,
+        "amount": 98,
+        "price": 42.6712
+      },
+      {
+        "id": 6,
+        "amount": 75,
+        "price": 46.7642
+      },
+      {
+        "id": 7,
+        "amount": 63,
+        "price": 8.1687
+      },
+      {
+        "id": 8,
+        "amount": 16,
+        "price": 38.8546
+      },
+      {
+        "id": 9,
+        "amount": 94,
+        "price": 21.6749
+      },
+      {
+        "id": 10,
+        "amount": 83,
+        "price": 64.8377
+      },
+      {
+        "id": 11,
+        "amount": 89,
+        "price": 59.8303
+      },
+      {
+        "id": 12,
+        "amount": 10,
+        "price": 18.5836
+      },
+      {
+        "id": 13,
+        "amount": 55,
+        "price": 25.4831
+      },
+      {
+        "id": 14,
+        "amount": 77,
+        "price": 78.875
+      },
+      {
+        "id": 15,
+        "amount": 69,
+        "price": 88.7764
+      }
+    ]
+  },
+  {
+    "name": "Store 59",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 66,
+        "price": 98.6723
+      },
+      {
+        "id": 2,
+        "amount": 34,
+        "price": 25.4303
+      },
+      {
+        "id": 3,
+        "amount": 89,
+        "price": 87.2075
+      },
+      {
+        "id": 4,
+        "amount": 8,
+        "price": 73.0202
+      },
+      {
+        "id": 5,
+        "amount": 88,
+        "price": 45.9161
+      },
+      {
+        "id": 6,
+        "amount": 2,
+        "price": 38.0238
+      },
+      {
+        "id": 7,
+        "amount": 79,
+        "price": 91.7728
+      },
+      {
+        "id": 8,
+        "amount": 14,
+        "price": 87.0444
+      },
+      {
+        "id": 9,
+        "amount": 91,
+        "price": 49.7369
+      },
+      {
+        "id": 10,
+        "amount": 31,
+        "price": 75.7806
+      },
+      {
+        "id": 11,
+        "amount": 45,
+        "price": 30.8416
+      },
+      {
+        "id": 12,
+        "amount": 97,
+        "price": 6.9272
+      },
+      {
+        "id": 13,
+        "amount": 75,
+        "price": 97.6071
+      },
+      {
+        "id": 14,
+        "amount": 76,
+        "price": 49.107
+      },
+      {
+        "id": 15,
+        "amount": 80,
+        "price": 52.7378
+      }
+    ]
+  },
+  {
+    "name": "Store 60",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 74,
+        "price": 30.6263
+      },
+      {
+        "id": 2,
+        "amount": 87,
+        "price": 67.331
+      },
+      {
+        "id": 3,
+        "amount": 53,
+        "price": 51.0513
+      },
+      {
+        "id": 4,
+        "amount": 68,
+        "price": 87.2884
+      },
+      {
+        "id": 5,
+        "amount": 85,
+        "price": 95.6085
+      },
+      {
+        "id": 6,
+        "amount": 27,
+        "price": 32.0196
+      },
+      {
+        "id": 7,
+        "amount": 59,
+        "price": 54.8483
+      },
+      {
+        "id": 8,
+        "amount": 23,
+        "price": 32.5472
+      },
+      {
+        "id": 9,
+        "amount": 49,
+        "price": 49.0226
+      },
+      {
+        "id": 10,
+        "amount": 7,
+        "price": 67.7842
+      },
+      {
+        "id": 11,
+        "amount": 12,
+        "price": 35.8745
+      },
+      {
+        "id": 12,
+        "amount": 62,
+        "price": 54.546
+      },
+      {
+        "id": 13,
+        "amount": 19,
+        "price": 50.102
+      },
+      {
+        "id": 14,
+        "amount": 57,
+        "price": 45.9771
+      },
+      {
+        "id": 15,
+        "amount": 42,
+        "price": 11.1487
+      }
+    ]
+  },
+  {
+    "name": "Store 61",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 49,
+        "price": 76.3687
+      },
+      {
+        "id": 2,
+        "amount": 70,
+        "price": 42.6263
+      },
+      {
+        "id": 3,
+        "amount": 12,
+        "price": 87.4965
+      },
+      {
+        "id": 4,
+        "amount": 16,
+        "price": 25.2723
+      },
+      {
+        "id": 5,
+        "amount": 60,
+        "price": 66.138
+      },
+      {
+        "id": 6,
+        "amount": 3,
+        "price": 57.3489
+      },
+      {
+        "id": 7,
+        "amount": 72,
+        "price": 48.3773
+      },
+      {
+        "id": 8,
+        "amount": 29,
+        "price": 24.3149
+      },
+      {
+        "id": 9,
+        "amount": 10,
+        "price": 43.3682
+      },
+      {
+        "id": 10,
+        "amount": 0,
+        "price": 7.7556
+      },
+      {
+        "id": 11,
+        "amount": 5,
+        "price": 45.5967
+      },
+      {
+        "id": 12,
+        "amount": 68,
+        "price": 26.5985
+      },
+      {
+        "id": 13,
+        "amount": 57,
+        "price": 83.026
+      },
+      {
+        "id": 14,
+        "amount": 10,
+        "price": 19.4607
+      },
+      {
+        "id": 15,
+        "amount": 51,
+        "price": 82.001
+      }
+    ]
+  },
+  {
+    "name": "Store 62",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 98,
+        "price": 62.6631
+      },
+      {
+        "id": 2,
+        "amount": 48,
+        "price": 19.0357
+      },
+      {
+        "id": 3,
+        "amount": 77,
+        "price": 23.5312
+      },
+      {
+        "id": 4,
+        "amount": 1,
+        "price": 38.0015
+      },
+      {
+        "id": 5,
+        "amount": 88,
+        "price": 35.8759
+      },
+      {
+        "id": 6,
+        "amount": 95,
+        "price": 54.828
+      },
+      {
+        "id": 7,
+        "amount": 55,
+        "price": 63.141
+      },
+      {
+        "id": 8,
+        "amount": 53,
+        "price": 12.2911
+      },
+      {
+        "id": 9,
+        "amount": 16,
+        "price": 73.0438
+      },
+      {
+        "id": 10,
+        "amount": 67,
+        "price": 63.8141
+      },
+      {
+        "id": 11,
+        "amount": 47,
+        "price": 13.5703
+      },
+      {
+        "id": 12,
+        "amount": 29,
+        "price": 72.0898
+      },
+      {
+        "id": 13,
+        "amount": 55,
+        "price": 63.1886
+      },
+      {
+        "id": 14,
+        "amount": 32,
+        "price": 80.6386
+      },
+      {
+        "id": 15,
+        "amount": 43,
+        "price": 53.0056
+      }
+    ]
+  },
+  {
+    "name": "Store 63",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 29,
+        "price": 80.351
+      },
+      {
+        "id": 2,
+        "amount": 64,
+        "price": 40.777
+      },
+      {
+        "id": 3,
+        "amount": 36,
+        "price": 86.7445
+      },
+      {
+        "id": 4,
+        "amount": 45,
+        "price": 27.8529
+      },
+      {
+        "id": 5,
+        "amount": 43,
+        "price": 94.2467
+      },
+      {
+        "id": 6,
+        "amount": 61,
+        "price": 48.5512
+      },
+      {
+        "id": 7,
+        "amount": 1,
+        "price": 92.9777
+      },
+      {
+        "id": 8,
+        "amount": 9,
+        "price": 33.0552
+      },
+      {
+        "id": 9,
+        "amount": 57,
+        "price": 29.6437
+      },
+      {
+        "id": 10,
+        "amount": 60,
+        "price": 8.8612
+      },
+      {
+        "id": 11,
+        "amount": 60,
+        "price": 44.4923
+      },
+      {
+        "id": 12,
+        "amount": 87,
+        "price": 29.2483
+      },
+      {
+        "id": 13,
+        "amount": 62,
+        "price": 34.9313
+      },
+      {
+        "id": 14,
+        "amount": 91,
+        "price": 58.0532
+      },
+      {
+        "id": 15,
+        "amount": 58,
+        "price": 57.9872
+      }
+    ]
+  },
+  {
+    "name": "Store 64",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 62,
+        "price": 67.7637
+      },
+      {
+        "id": 2,
+        "amount": 31,
+        "price": 20.6523
+      },
+      {
+        "id": 3,
+        "amount": 89,
+        "price": 38.2332
+      },
+      {
+        "id": 4,
+        "amount": 83,
+        "price": 89.5544
+      },
+      {
+        "id": 5,
+        "amount": 97,
+        "price": 84.9918
+      },
+      {
+        "id": 6,
+        "amount": 70,
+        "price": 36.8907
+      },
+      {
+        "id": 7,
+        "amount": 4,
+        "price": 6.2511
+      },
+      {
+        "id": 8,
+        "amount": 42,
+        "price": 80.7087
+      },
+      {
+        "id": 9,
+        "amount": 68,
+        "price": 36.2913
+      },
+      {
+        "id": 10,
+        "amount": 1,
+        "price": 39.7569
+      },
+      {
+        "id": 11,
+        "amount": 20,
+        "price": 12.1795
+      },
+      {
+        "id": 12,
+        "amount": 15,
+        "price": 57.5784
+      },
+      {
+        "id": 13,
+        "amount": 6,
+        "price": 7.0806
+      },
+      {
+        "id": 14,
+        "amount": 2,
+        "price": 15.7067
+      },
+      {
+        "id": 15,
+        "amount": 63,
+        "price": 80.1418
+      }
+    ]
+  },
+  {
+    "name": "Store 65",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 10,
+        "price": 43.0478
+      },
+      {
+        "id": 2,
+        "amount": 75,
+        "price": 96.713
+      },
+      {
+        "id": 3,
+        "amount": 98,
+        "price": 88.9616
+      },
+      {
+        "id": 4,
+        "amount": 24,
+        "price": 36.2033
+      },
+      {
+        "id": 5,
+        "amount": 80,
+        "price": 73.9746
+      },
+      {
+        "id": 6,
+        "amount": 26,
+        "price": 66.0039
+      },
+      {
+        "id": 7,
+        "amount": 55,
+        "price": 87.2375
+      },
+      {
+        "id": 8,
+        "amount": 91,
+        "price": 58.3972
+      },
+      {
+        "id": 9,
+        "amount": 11,
+        "price": 33.7971
+      },
+      {
+        "id": 10,
+        "amount": 59,
+        "price": 27.4286
+      },
+      {
+        "id": 11,
+        "amount": 31,
+        "price": 98.8969
+      },
+      {
+        "id": 12,
+        "amount": 68,
+        "price": 20.6457
+      },
+      {
+        "id": 13,
+        "amount": 54,
+        "price": 62.1305
+      },
+      {
+        "id": 14,
+        "amount": 55,
+        "price": 96.5025
+      },
+      {
+        "id": 15,
+        "amount": 5,
+        "price": 60.8313
+      }
+    ]
+  },
+  {
+    "name": "Store 66",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 84,
+        "price": 75.7912
+      },
+      {
+        "id": 2,
+        "amount": 59,
+        "price": 14.997
+      },
+      {
+        "id": 3,
+        "amount": 9,
+        "price": 43.1843
+      },
+      {
+        "id": 4,
+        "amount": 10,
+        "price": 6.3651
+      },
+      {
+        "id": 5,
+        "amount": 74,
+        "price": 10.9953
+      },
+      {
+        "id": 6,
+        "amount": 57,
+        "price": 57.4268
+      },
+      {
+        "id": 7,
+        "amount": 62,
+        "price": 58.9577
+      },
+      {
+        "id": 8,
+        "amount": 24,
+        "price": 92.2653
+      },
+      {
+        "id": 9,
+        "amount": 59,
+        "price": 88.6106
+      },
+      {
+        "id": 10,
+        "amount": 1,
+        "price": 6.6101
+      },
+      {
+        "id": 11,
+        "amount": 42,
+        "price": 9.8633
+      },
+      {
+        "id": 12,
+        "amount": 0,
+        "price": 75.4596
+      },
+      {
+        "id": 13,
+        "amount": 71,
+        "price": 89.1763
+      },
+      {
+        "id": 14,
+        "amount": 34,
+        "price": 44.433
+      },
+      {
+        "id": 15,
+        "amount": 21,
+        "price": 85.5077
+      }
+    ]
+  },
+  {
+    "name": "Store 67",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 5,
+        "price": 6.7933
+      },
+      {
+        "id": 2,
+        "amount": 42,
+        "price": 73.3548
+      },
+      {
+        "id": 3,
+        "amount": 94,
+        "price": 77.5038
+      },
+      {
+        "id": 4,
+        "amount": 38,
+        "price": 10.2478
+      },
+      {
+        "id": 5,
+        "amount": 91,
+        "price": 69.739
+      },
+      {
+        "id": 6,
+        "amount": 88,
+        "price": 55.8201
+      },
+      {
+        "id": 7,
+        "amount": 64,
+        "price": 39.8706
+      },
+      {
+        "id": 8,
+        "amount": 27,
+        "price": 87.4554
+      },
+      {
+        "id": 9,
+        "amount": 41,
+        "price": 76.461
+      },
+      {
+        "id": 10,
+        "amount": 94,
+        "price": 4.3287
+      },
+      {
+        "id": 11,
+        "amount": 99,
+        "price": 82.1524
+      },
+      {
+        "id": 12,
+        "amount": 95,
+        "price": 75.2918
+      },
+      {
+        "id": 13,
+        "amount": 39,
+        "price": 2.5034
+      },
+      {
+        "id": 14,
+        "amount": 80,
+        "price": 7.5646
+      },
+      {
+        "id": 15,
+        "amount": 34,
+        "price": 96.695
+      }
+    ]
+  },
+  {
+    "name": "Store 68",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 59,
+        "price": 30.0962
+      },
+      {
+        "id": 2,
+        "amount": 40,
+        "price": 90.6588
+      },
+      {
+        "id": 3,
+        "amount": 1,
+        "price": 80.4535
+      },
+      {
+        "id": 4,
+        "amount": 54,
+        "price": 65.7234
+      },
+      {
+        "id": 5,
+        "amount": 8,
+        "price": 16.4257
+      },
+      {
+        "id": 6,
+        "amount": 62,
+        "price": 64.8154
+      },
+      {
+        "id": 7,
+        "amount": 56,
+        "price": 2.6918
+      },
+      {
+        "id": 8,
+        "amount": 39,
+        "price": 47.6968
+      },
+      {
+        "id": 9,
+        "amount": 97,
+        "price": 70.7879
+      },
+      {
+        "id": 10,
+        "amount": 71,
+        "price": 85.8839
+      },
+      {
+        "id": 11,
+        "amount": 80,
+        "price": 31.2503
+      },
+      {
+        "id": 12,
+        "amount": 49,
+        "price": 9.0218
+      },
+      {
+        "id": 13,
+        "amount": 18,
+        "price": 99.3053
+      },
+      {
+        "id": 14,
+        "amount": 69,
+        "price": 35.3112
+      },
+      {
+        "id": 15,
+        "amount": 9,
+        "price": 33.9595
+      }
+    ]
+  },
+  {
+    "name": "Store 69",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 24,
+        "price": 89.8348
+      },
+      {
+        "id": 2,
+        "amount": 96,
+        "price": 24.5265
+      },
+      {
+        "id": 3,
+        "amount": 82,
+        "price": 84.9567
+      },
+      {
+        "id": 4,
+        "amount": 74,
+        "price": 28.4141
+      },
+      {
+        "id": 5,
+        "amount": 49,
+        "price": 67.6391
+      },
+      {
+        "id": 6,
+        "amount": 53,
+        "price": 44.6239
+      },
+      {
+        "id": 7,
+        "amount": 61,
+        "price": 100.6302
+      },
+      {
+        "id": 8,
+        "amount": 48,
+        "price": 46.9467
+      },
+      {
+        "id": 9,
+        "amount": 73,
+        "price": 21.2335
+      },
+      {
+        "id": 10,
+        "amount": 63,
+        "price": 68.8752
+      },
+      {
+        "id": 11,
+        "amount": 94,
+        "price": 44.5835
+      },
+      {
+        "id": 12,
+        "amount": 69,
+        "price": 16.4215
+      },
+      {
+        "id": 13,
+        "amount": 83,
+        "price": 40.5102
+      },
+      {
+        "id": 14,
+        "amount": 13,
+        "price": 7.6053
+      },
+      {
+        "id": 15,
+        "amount": 30,
+        "price": 92.4106
+      }
+    ]
+  },
+  {
+    "name": "Store 70",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 0,
+        "price": 69.5047
+      },
+      {
+        "id": 2,
+        "amount": 80,
+        "price": 44.5602
+      },
+      {
+        "id": 3,
+        "amount": 51,
+        "price": 55.0236
+      },
+      {
+        "id": 4,
+        "amount": 56,
+        "price": 75.4447
+      },
+      {
+        "id": 5,
+        "amount": 52,
+        "price": 2.9846
+      },
+      {
+        "id": 6,
+        "amount": 11,
+        "price": 81.8991
+      },
+      {
+        "id": 7,
+        "amount": 47,
+        "price": 101.8268
+      },
+      {
+        "id": 8,
+        "amount": 23,
+        "price": 41.1066
+      },
+      {
+        "id": 9,
+        "amount": 53,
+        "price": 13.1716
+      },
+      {
+        "id": 10,
+        "amount": 58,
+        "price": 57.3283
+      },
+      {
+        "id": 11,
+        "amount": 20,
+        "price": 63.4261
+      },
+      {
+        "id": 12,
+        "amount": 25,
+        "price": 23.1195
+      },
+      {
+        "id": 13,
+        "amount": 27,
+        "price": 29.4549
+      },
+      {
+        "id": 14,
+        "amount": 60,
+        "price": 65.0236
+      },
+      {
+        "id": 15,
+        "amount": 3,
+        "price": 7.0132
+      }
+    ]
+  },
+  {
+    "name": "Store 71",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 57,
+        "price": 9.7979
+      },
+      {
+        "id": 2,
+        "amount": 50,
+        "price": 2.9897
+      },
+      {
+        "id": 3,
+        "amount": 96,
+        "price": 101.117
+      },
+      {
+        "id": 4,
+        "amount": 38,
+        "price": 36.0528
+      },
+      {
+        "id": 5,
+        "amount": 83,
+        "price": 22.0864
+      },
+      {
+        "id": 6,
+        "amount": 80,
+        "price": 85.0794
+      },
+      {
+        "id": 7,
+        "amount": 88,
+        "price": 30.3005
+      },
+      {
+        "id": 8,
+        "amount": 15,
+        "price": 53.9838
+      },
+      {
+        "id": 9,
+        "amount": 94,
+        "price": 68.2799
+      },
+      {
+        "id": 10,
+        "amount": 7,
+        "price": 52.3236
+      },
+      {
+        "id": 11,
+        "amount": 20,
+        "price": 49.2213
+      },
+      {
+        "id": 12,
+        "amount": 39,
+        "price": 14.2778
+      },
+      {
+        "id": 13,
+        "amount": 99,
+        "price": 39.1471
+      },
+      {
+        "id": 14,
+        "amount": 72,
+        "price": 94.9065
+      },
+      {
+        "id": 15,
+        "amount": 74,
+        "price": 3.0933
+      }
+    ]
+  },
+  {
+    "name": "Store 72",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 48,
+        "price": 70.7549
+      },
+      {
+        "id": 2,
+        "amount": 24,
+        "price": 45.7019
+      },
+      {
+        "id": 3,
+        "amount": 22,
+        "price": 18.6053
+      },
+      {
+        "id": 4,
+        "amount": 62,
+        "price": 6.8872
+      },
+      {
+        "id": 5,
+        "amount": 62,
+        "price": 23.6606
+      },
+      {
+        "id": 6,
+        "amount": 13,
+        "price": 66.6139
+      },
+      {
+        "id": 7,
+        "amount": 10,
+        "price": 23.4732
+      },
+      {
+        "id": 8,
+        "amount": 64,
+        "price": 67.1987
+      },
+      {
+        "id": 9,
+        "amount": 80,
+        "price": 17.96
+      },
+      {
+        "id": 10,
+        "amount": 97,
+        "price": 51.1173
+      },
+      {
+        "id": 11,
+        "amount": 31,
+        "price": 79.1697
+      },
+      {
+        "id": 12,
+        "amount": 48,
+        "price": 61.6335
+      },
+      {
+        "id": 13,
+        "amount": 57,
+        "price": 89.9348
+      },
+      {
+        "id": 14,
+        "amount": 63,
+        "price": 73.7561
+      },
+      {
+        "id": 15,
+        "amount": 87,
+        "price": 34.1775
+      }
+    ]
+  },
+  {
+    "name": "Store 73",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 30,
+        "price": 40.8439
+      },
+      {
+        "id": 2,
+        "amount": 14,
+        "price": 59.571
+      },
+      {
+        "id": 3,
+        "amount": 11,
+        "price": 21.3366
+      },
+      {
+        "id": 4,
+        "amount": 76,
+        "price": 6.2312
+      },
+      {
+        "id": 5,
+        "amount": 84,
+        "price": 38.282
+      },
+      {
+        "id": 6,
+        "amount": 1,
+        "price": 88.3863
+      },
+      {
+        "id": 7,
+        "amount": 19,
+        "price": 90.851
+      },
+      {
+        "id": 8,
+        "amount": 1,
+        "price": 81.6586
+      },
+      {
+        "id": 9,
+        "amount": 46,
+        "price": 75.4389
+      },
+      {
+        "id": 10,
+        "amount": 83,
+        "price": 5.0193
+      },
+      {
+        "id": 11,
+        "amount": 34,
+        "price": 24.9723
+      },
+      {
+        "id": 12,
+        "amount": 11,
+        "price": 78.7177
+      },
+      {
+        "id": 13,
+        "amount": 75,
+        "price": 73.1816
+      },
+      {
+        "id": 14,
+        "amount": 58,
+        "price": 13.3502
+      },
+      {
+        "id": 15,
+        "amount": 24,
+        "price": 8.9878
+      }
+    ]
+  },
+  {
+    "name": "Store 74",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 14,
+        "price": 20.954
+      },
+      {
+        "id": 2,
+        "amount": 1,
+        "price": 7.3978
+      },
+      {
+        "id": 3,
+        "amount": 43,
+        "price": 25.6794
+      },
+      {
+        "id": 4,
+        "amount": 62,
+        "price": 77.7291
+      },
+      {
+        "id": 5,
+        "amount": 71,
+        "price": 95.4
+      },
+      {
+        "id": 6,
+        "amount": 58,
+        "price": 91.8034
+      },
+      {
+        "id": 7,
+        "amount": 22,
+        "price": 16.8391
+      },
+      {
+        "id": 8,
+        "amount": 19,
+        "price": 92.4496
+      },
+      {
+        "id": 9,
+        "amount": 92,
+        "price": 96.7571
+      },
+      {
+        "id": 10,
+        "amount": 5,
+        "price": 80.8678
+      },
+      {
+        "id": 11,
+        "amount": 24,
+        "price": 80.2531
+      },
+      {
+        "id": 12,
+        "amount": 63,
+        "price": 15.9789
+      },
+      {
+        "id": 13,
+        "amount": 7,
+        "price": 94.5297
+      },
+      {
+        "id": 14,
+        "amount": 9,
+        "price": 69.0416
+      },
+      {
+        "id": 15,
+        "amount": 34,
+        "price": 8.7234
+      }
+    ]
+  },
+  {
+    "name": "Store 75",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 84,
+        "price": 82.7968
+      },
+      {
+        "id": 2,
+        "amount": 40,
+        "price": 28.6438
+      },
+      {
+        "id": 3,
+        "amount": 0,
+        "price": 78.6667
+      },
+      {
+        "id": 4,
+        "amount": 4,
+        "price": 26.7853
+      },
+      {
+        "id": 5,
+        "amount": 37,
+        "price": 97.5785
+      },
+      {
+        "id": 6,
+        "amount": 51,
+        "price": 46.4391
+      },
+      {
+        "id": 7,
+        "amount": 61,
+        "price": 5.8342
+      },
+      {
+        "id": 8,
+        "amount": 17,
+        "price": 23.3647
+      },
+      {
+        "id": 9,
+        "amount": 34,
+        "price": 67.0807
+      },
+      {
+        "id": 10,
+        "amount": 71,
+        "price": 70.0474
+      },
+      {
+        "id": 11,
+        "amount": 10,
+        "price": 28.742
+      },
+      {
+        "id": 12,
+        "amount": 18,
+        "price": 27.1562
+      },
+      {
+        "id": 13,
+        "amount": 60,
+        "price": 62.1264
+      },
+      {
+        "id": 14,
+        "amount": 23,
+        "price": 41.7847
+      },
+      {
+        "id": 15,
+        "amount": 97,
+        "price": 60.5602
+      }
+    ]
+  },
+  {
+    "name": "Store 76",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 54,
+        "price": 99.3654
+      },
+      {
+        "id": 2,
+        "amount": 86,
+        "price": 13.0868
+      },
+      {
+        "id": 3,
+        "amount": 96,
+        "price": 80.8041
+      },
+      {
+        "id": 4,
+        "amount": 80,
+        "price": 48.8486
+      },
+      {
+        "id": 5,
+        "amount": 1,
+        "price": 85.206
+      },
+      {
+        "id": 6,
+        "amount": 8,
+        "price": 80.764
+      },
+      {
+        "id": 7,
+        "amount": 40,
+        "price": 42.191
+      },
+      {
+        "id": 8,
+        "amount": 7,
+        "price": 25.4787
+      },
+      {
+        "id": 9,
+        "amount": 42,
+        "price": 100.5203
+      },
+      {
+        "id": 10,
+        "amount": 11,
+        "price": 28.1107
+      },
+      {
+        "id": 11,
+        "amount": 92,
+        "price": 6.6891
+      },
+      {
+        "id": 12,
+        "amount": 68,
+        "price": 18.936
+      },
+      {
+        "id": 13,
+        "amount": 57,
+        "price": 92.9931
+      },
+      {
+        "id": 14,
+        "amount": 73,
+        "price": 66.3594
+      },
+      {
+        "id": 15,
+        "amount": 78,
+        "price": 18.9574
+      }
+    ]
+  },
+  {
+    "name": "Store 77",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 88,
+        "price": 91.4404
+      },
+      {
+        "id": 2,
+        "amount": 90,
+        "price": 65.2045
+      },
+      {
+        "id": 3,
+        "amount": 10,
+        "price": 22.769
+      },
+      {
+        "id": 4,
+        "amount": 52,
+        "price": 48.8283
+      },
+      {
+        "id": 5,
+        "amount": 0,
+        "price": 35.9469
+      },
+      {
+        "id": 6,
+        "amount": 75,
+        "price": 62.6353
+      },
+      {
+        "id": 7,
+        "amount": 14,
+        "price": 70.2199
+      },
+      {
+        "id": 8,
+        "amount": 43,
+        "price": 74.0525
+      },
+      {
+        "id": 9,
+        "amount": 68,
+        "price": 44.9246
+      },
+      {
+        "id": 10,
+        "amount": 55,
+        "price": 65.9802
+      },
+      {
+        "id": 11,
+        "amount": 85,
+        "price": 51.2987
+      },
+      {
+        "id": 12,
+        "amount": 78,
+        "price": 67.5929
+      },
+      {
+        "id": 13,
+        "amount": 46,
+        "price": 20.6168
+      },
+      {
+        "id": 14,
+        "amount": 50,
+        "price": 71.4752
+      },
+      {
+        "id": 15,
+        "amount": 69,
+        "price": 53.0884
+      }
+    ]
+  },
+  {
+    "name": "Store 78",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 32,
+        "price": 83.3635
+      },
+      {
+        "id": 2,
+        "amount": 33,
+        "price": 31.1615
+      },
+      {
+        "id": 3,
+        "amount": 91,
+        "price": 47.1187
+      },
+      {
+        "id": 4,
+        "amount": 61,
+        "price": 14.8735
+      },
+      {
+        "id": 5,
+        "amount": 95,
+        "price": 41.5872
+      },
+      {
+        "id": 6,
+        "amount": 28,
+        "price": 72.643
+      },
+      {
+        "id": 7,
+        "amount": 5,
+        "price": 21.8266
+      },
+      {
+        "id": 8,
+        "amount": 33,
+        "price": 90.9594
+      },
+      {
+        "id": 9,
+        "amount": 21,
+        "price": 68.8526
+      },
+      {
+        "id": 10,
+        "amount": 74,
+        "price": 101.7587
+      },
+      {
+        "id": 11,
+        "amount": 37,
+        "price": 46.6553
+      },
+      {
+        "id": 12,
+        "amount": 84,
+        "price": 78.8391
+      },
+      {
+        "id": 13,
+        "amount": 68,
+        "price": 3.4588
+      },
+      {
+        "id": 14,
+        "amount": 66,
+        "price": 32.4868
+      },
+      {
+        "id": 15,
+        "amount": 53,
+        "price": 52.778
+      }
+    ]
+  },
+  {
+    "name": "Store 79",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 2,
+        "price": 72.1987
+      },
+      {
+        "id": 2,
+        "amount": 50,
+        "price": 52.6819
+      },
+      {
+        "id": 3,
+        "amount": 5,
+        "price": 29.5207
+      },
+      {
+        "id": 4,
+        "amount": 80,
+        "price": 36.8527
+      },
+      {
+        "id": 5,
+        "amount": 66,
+        "price": 98.4167
+      },
+      {
+        "id": 6,
+        "amount": 33,
+        "price": 47.2603
+      },
+      {
+        "id": 7,
+        "amount": 68,
+        "price": 44.9662
+      },
+      {
+        "id": 8,
+        "amount": 89,
+        "price": 56.3463
+      },
+      {
+        "id": 9,
+        "amount": 87,
+        "price": 55.7424
+      },
+      {
+        "id": 10,
+        "amount": 82,
+        "price": 56.4713
+      },
+      {
+        "id": 11,
+        "amount": 6,
+        "price": 101.3899
+      },
+      {
+        "id": 12,
+        "amount": 84,
+        "price": 64.3884
+      },
+      {
+        "id": 13,
+        "amount": 3,
+        "price": 17.7695
+      },
+      {
+        "id": 14,
+        "amount": 72,
+        "price": 49.1276
+      },
+      {
+        "id": 15,
+        "amount": 42,
+        "price": 55.769
+      }
+    ]
+  },
+  {
+    "name": "Store 80",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 48,
+        "price": 54.063
+      },
+      {
+        "id": 2,
+        "amount": 51,
+        "price": 72.8978
+      },
+      {
+        "id": 3,
+        "amount": 50,
+        "price": 77.9822
+      },
+      {
+        "id": 4,
+        "amount": 72,
+        "price": 41.4198
+      },
+      {
+        "id": 5,
+        "amount": 93,
+        "price": 34.3365
+      },
+      {
+        "id": 6,
+        "amount": 5,
+        "price": 42.3195
+      },
+      {
+        "id": 7,
+        "amount": 26,
+        "price": 47.2013
+      },
+      {
+        "id": 8,
+        "amount": 46,
+        "price": 95.466
+      },
+      {
+        "id": 9,
+        "amount": 68,
+        "price": 77.572
+      },
+      {
+        "id": 10,
+        "amount": 52,
+        "price": 45.6366
+      },
+      {
+        "id": 11,
+        "amount": 42,
+        "price": 23.2749
+      },
+      {
+        "id": 12,
+        "amount": 89,
+        "price": 8.9566
+      },
+      {
+        "id": 13,
+        "amount": 28,
+        "price": 56.0475
+      },
+      {
+        "id": 14,
+        "amount": 0,
+        "price": 37.7269
+      },
+      {
+        "id": 15,
+        "amount": 52,
+        "price": 80.2615
+      }
+    ]
+  },
+  {
+    "name": "Store 81",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 85,
+        "price": 36.3232
+      },
+      {
+        "id": 2,
+        "amount": 77,
+        "price": 54.4608
+      },
+      {
+        "id": 3,
+        "amount": 70,
+        "price": 93.9681
+      },
+      {
+        "id": 4,
+        "amount": 63,
+        "price": 90.381
+      },
+      {
+        "id": 5,
+        "amount": 32,
+        "price": 90.3861
+      },
+      {
+        "id": 6,
+        "amount": 43,
+        "price": 35.2837
+      },
+      {
+        "id": 7,
+        "amount": 26,
+        "price": 30.8408
+      },
+      {
+        "id": 8,
+        "amount": 71,
+        "price": 97.3327
+      },
+      {
+        "id": 9,
+        "amount": 9,
+        "price": 23.1547
+      },
+      {
+        "id": 10,
+        "amount": 54,
+        "price": 89.0496
+      },
+      {
+        "id": 11,
+        "amount": 69,
+        "price": 91.8773
+      },
+      {
+        "id": 12,
+        "amount": 91,
+        "price": 15.6371
+      },
+      {
+        "id": 13,
+        "amount": 77,
+        "price": 77.579
+      },
+      {
+        "id": 14,
+        "amount": 15,
+        "price": 41.483
+      },
+      {
+        "id": 15,
+        "amount": 99,
+        "price": 54.3692
+      }
+    ]
+  },
+  {
+    "name": "Store 82",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 84,
+        "price": 8.3699
+      },
+      {
+        "id": 2,
+        "amount": 53,
+        "price": 69.7082
+      },
+      {
+        "id": 3,
+        "amount": 60,
+        "price": 3.3676
+      },
+      {
+        "id": 4,
+        "amount": 45,
+        "price": 42.266
+      },
+      {
+        "id": 5,
+        "amount": 9,
+        "price": 17.5009
+      },
+      {
+        "id": 6,
+        "amount": 36,
+        "price": 74.6695
+      },
+      {
+        "id": 7,
+        "amount": 46,
+        "price": 101.0878
+      },
+      {
+        "id": 8,
+        "amount": 51,
+        "price": 80.0208
+      },
+      {
+        "id": 9,
+        "amount": 53,
+        "price": 38.862
+      },
+      {
+        "id": 10,
+        "amount": 72,
+        "price": 53.2785
+      },
+      {
+        "id": 11,
+        "amount": 22,
+        "price": 34.1525
+      },
+      {
+        "id": 12,
+        "amount": 33,
+        "price": 79.8034
+      },
+      {
+        "id": 13,
+        "amount": 39,
+        "price": 39.0976
+      },
+      {
+        "id": 14,
+        "amount": 63,
+        "price": 70.38
+      },
+      {
+        "id": 15,
+        "amount": 58,
+        "price": 9.2809
+      }
+    ]
+  },
+  {
+    "name": "Store 83",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 56,
+        "price": 19.0927
+      },
+      {
+        "id": 2,
+        "amount": 98,
+        "price": 74.6176
+      },
+      {
+        "id": 3,
+        "amount": 11,
+        "price": 30.4806
+      },
+      {
+        "id": 4,
+        "amount": 56,
+        "price": 82.1331
+      },
+      {
+        "id": 5,
+        "amount": 26,
+        "price": 37.0708
+      },
+      {
+        "id": 6,
+        "amount": 62,
+        "price": 27.1584
+      },
+      {
+        "id": 7,
+        "amount": 24,
+        "price": 75.3053
+      },
+      {
+        "id": 8,
+        "amount": 76,
+        "price": 61.305
+      },
+      {
+        "id": 9,
+        "amount": 32,
+        "price": 26.4316
+      },
+      {
+        "id": 10,
+        "amount": 39,
+        "price": 94.7853
+      },
+      {
+        "id": 11,
+        "amount": 21,
+        "price": 38.2026
+      },
+      {
+        "id": 12,
+        "amount": 78,
+        "price": 27.8362
+      },
+      {
+        "id": 13,
+        "amount": 53,
+        "price": 97.6419
+      },
+      {
+        "id": 14,
+        "amount": 94,
+        "price": 58.283
+      },
+      {
+        "id": 15,
+        "amount": 46,
+        "price": 50.2934
+      }
+    ]
+  },
+  {
+    "name": "Store 84",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 96,
+        "price": 98.5272
+      },
+      {
+        "id": 2,
+        "amount": 93,
+        "price": 51.2218
+      },
+      {
+        "id": 3,
+        "amount": 72,
+        "price": 8.0266
+      },
+      {
+        "id": 4,
+        "amount": 70,
+        "price": 40.7665
+      },
+      {
+        "id": 5,
+        "amount": 81,
+        "price": 67.3462
+      },
+      {
+        "id": 6,
+        "amount": 16,
+        "price": 84.2892
+      },
+      {
+        "id": 7,
+        "amount": 35,
+        "price": 88.5664
+      },
+      {
+        "id": 8,
+        "amount": 33,
+        "price": 63.4662
+      },
+      {
+        "id": 9,
+        "amount": 92,
+        "price": 34.7067
+      },
+      {
+        "id": 10,
+        "amount": 73,
+        "price": 54.4867
+      },
+      {
+        "id": 11,
+        "amount": 34,
+        "price": 25.2199
+      },
+      {
+        "id": 12,
+        "amount": 4,
+        "price": 87.9623
+      },
+      {
+        "id": 13,
+        "amount": 22,
+        "price": 95.0344
+      },
+      {
+        "id": 14,
+        "amount": 63,
+        "price": 79.3792
+      },
+      {
+        "id": 15,
+        "amount": 82,
+        "price": 79.2805
+      }
+    ]
+  },
+  {
+    "name": "Store 85",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 3,
+        "price": 98.3315
+      },
+      {
+        "id": 2,
+        "amount": 64,
+        "price": 4.323
+      },
+      {
+        "id": 3,
+        "amount": 88,
+        "price": 90.9106
+      },
+      {
+        "id": 4,
+        "amount": 64,
+        "price": 30.0668
+      },
+      {
+        "id": 5,
+        "amount": 20,
+        "price": 97.9987
+      },
+      {
+        "id": 6,
+        "amount": 37,
+        "price": 22.4442
+      },
+      {
+        "id": 7,
+        "amount": 49,
+        "price": 93.2302
+      },
+      {
+        "id": 8,
+        "amount": 96,
+        "price": 8.3692
+      },
+      {
+        "id": 9,
+        "amount": 38,
+        "price": 50.8289
+      },
+      {
+        "id": 10,
+        "amount": 30,
+        "price": 38.3922
+      },
+      {
+        "id": 11,
+        "amount": 12,
+        "price": 59.5279
+      },
+      {
+        "id": 12,
+        "amount": 74,
+        "price": 73.0234
+      },
+      {
+        "id": 13,
+        "amount": 9,
+        "price": 97.0044
+      },
+      {
+        "id": 14,
+        "amount": 61,
+        "price": 46.7525
+      },
+      {
+        "id": 15,
+        "amount": 34,
+        "price": 96.3121
+      }
+    ]
+  },
+  {
+    "name": "Store 86",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 98,
+        "price": 34.8362
+      },
+      {
+        "id": 2,
+        "amount": 1,
+        "price": 7.8289
+      },
+      {
+        "id": 3,
+        "amount": 25,
+        "price": 81.5838
+      },
+      {
+        "id": 4,
+        "amount": 68,
+        "price": 55.8905
+      },
+      {
+        "id": 5,
+        "amount": 90,
+        "price": 76.2247
+      },
+      {
+        "id": 6,
+        "amount": 37,
+        "price": 43.9319
+      },
+      {
+        "id": 7,
+        "amount": 75,
+        "price": 69.3867
+      },
+      {
+        "id": 8,
+        "amount": 65,
+        "price": 98.3651
+      },
+      {
+        "id": 9,
+        "amount": 41,
+        "price": 11.8584
+      },
+      {
+        "id": 10,
+        "amount": 87,
+        "price": 91.6013
+      },
+      {
+        "id": 11,
+        "amount": 73,
+        "price": 92.1201
+      },
+      {
+        "id": 12,
+        "amount": 5,
+        "price": 82.081
+      },
+      {
+        "id": 13,
+        "amount": 1,
+        "price": 15.5751
+      },
+      {
+        "id": 14,
+        "amount": 39,
+        "price": 38.1566
+      },
+      {
+        "id": 15,
+        "amount": 99,
+        "price": 60.4266
+      }
+    ]
+  },
+  {
+    "name": "Store 87",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 87,
+        "price": 95.895
+      },
+      {
+        "id": 2,
+        "amount": 14,
+        "price": 25.35
+      },
+      {
+        "id": 3,
+        "amount": 73,
+        "price": 13.1888
+      },
+      {
+        "id": 4,
+        "amount": 36,
+        "price": 14.8236
+      },
+      {
+        "id": 5,
+        "amount": 17,
+        "price": 14.2208
+      },
+      {
+        "id": 6,
+        "amount": 94,
+        "price": 77.7546
+      },
+      {
+        "id": 7,
+        "amount": 12,
+        "price": 15.3844
+      },
+      {
+        "id": 8,
+        "amount": 12,
+        "price": 87.6448
+      },
+      {
+        "id": 9,
+        "amount": 0,
+        "price": 94.5983
+      },
+      {
+        "id": 10,
+        "amount": 26,
+        "price": 54.4491
+      },
+      {
+        "id": 11,
+        "amount": 48,
+        "price": 49.6793
+      },
+      {
+        "id": 12,
+        "amount": 85,
+        "price": 101.0033
+      },
+      {
+        "id": 13,
+        "amount": 44,
+        "price": 47.2869
+      },
+      {
+        "id": 14,
+        "amount": 47,
+        "price": 85.4661
+      },
+      {
+        "id": 15,
+        "amount": 27,
+        "price": 3.514
+      }
+    ]
+  },
+  {
+    "name": "Store 88",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 25,
+        "price": 3.567
+      },
+      {
+        "id": 2,
+        "amount": 0,
+        "price": 77.6605
+      },
+      {
+        "id": 3,
+        "amount": 34,
+        "price": 84.6045
+      },
+      {
+        "id": 4,
+        "amount": 44,
+        "price": 72.7603
+      },
+      {
+        "id": 5,
+        "amount": 63,
+        "price": 46.9222
+      },
+      {
+        "id": 6,
+        "amount": 15,
+        "price": 2.5736
+      },
+      {
+        "id": 7,
+        "amount": 27,
+        "price": 58.3767
+      },
+      {
+        "id": 8,
+        "amount": 54,
+        "price": 65.7122
+      },
+      {
+        "id": 9,
+        "amount": 71,
+        "price": 34.4417
+      },
+      {
+        "id": 10,
+        "amount": 78,
+        "price": 91.674
+      },
+      {
+        "id": 11,
+        "amount": 21,
+        "price": 67.7414
+      },
+      {
+        "id": 12,
+        "amount": 70,
+        "price": 66.6175
+      },
+      {
+        "id": 13,
+        "amount": 38,
+        "price": 91.6607
+      },
+      {
+        "id": 14,
+        "amount": 27,
+        "price": 39.0034
+      },
+      {
+        "id": 15,
+        "amount": 79,
+        "price": 9.3216
+      }
+    ]
+  },
+  {
+    "name": "Store 89",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 23,
+        "price": 36.6695
+      },
+      {
+        "id": 2,
+        "amount": 48,
+        "price": 85.9309
+      },
+      {
+        "id": 3,
+        "amount": 73,
+        "price": 4.2549
+      },
+      {
+        "id": 4,
+        "amount": 27,
+        "price": 81.1367
+      },
+      {
+        "id": 5,
+        "amount": 63,
+        "price": 94.3947
+      },
+      {
+        "id": 6,
+        "amount": 88,
+        "price": 74.77
+      },
+      {
+        "id": 7,
+        "amount": 8,
+        "price": 16.1579
+      },
+      {
+        "id": 8,
+        "amount": 25,
+        "price": 94.172
+      },
+      {
+        "id": 9,
+        "amount": 34,
+        "price": 98.1571
+      },
+      {
+        "id": 10,
+        "amount": 86,
+        "price": 51.6447
+      },
+      {
+        "id": 11,
+        "amount": 0,
+        "price": 95.3608
+      },
+      {
+        "id": 12,
+        "amount": 49,
+        "price": 39.7065
+      },
+      {
+        "id": 13,
+        "amount": 35,
+        "price": 93.9405
+      },
+      {
+        "id": 14,
+        "amount": 32,
+        "price": 21.9782
+      },
+      {
+        "id": 15,
+        "amount": 39,
+        "price": 5.4912
+      }
+    ]
+  },
+  {
+    "name": "Store 90",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 79,
+        "price": 72.9719
+      },
+      {
+        "id": 2,
+        "amount": 48,
+        "price": 66.6081
+      },
+      {
+        "id": 3,
+        "amount": 16,
+        "price": 16.5169
+      },
+      {
+        "id": 4,
+        "amount": 57,
+        "price": 32.7505
+      },
+      {
+        "id": 5,
+        "amount": 91,
+        "price": 20.4955
+      },
+      {
+        "id": 6,
+        "amount": 59,
+        "price": 37.0436
+      },
+      {
+        "id": 7,
+        "amount": 40,
+        "price": 101.2546
+      },
+      {
+        "id": 8,
+        "amount": 16,
+        "price": 96.3039
+      },
+      {
+        "id": 9,
+        "amount": 6,
+        "price": 16.8283
+      },
+      {
+        "id": 10,
+        "amount": 51,
+        "price": 14.9059
+      },
+      {
+        "id": 11,
+        "amount": 63,
+        "price": 54.9127
+      },
+      {
+        "id": 12,
+        "amount": 31,
+        "price": 43.4204
+      },
+      {
+        "id": 13,
+        "amount": 9,
+        "price": 37.2615
+      },
+      {
+        "id": 14,
+        "amount": 37,
+        "price": 83.8709
+      },
+      {
+        "id": 15,
+        "amount": 56,
+        "price": 40.0982
+      }
+    ]
+  },
+  {
+    "name": "Store 91",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 83,
+        "price": 38.5175
+      },
+      {
+        "id": 2,
+        "amount": 67,
+        "price": 85.9344
+      },
+      {
+        "id": 3,
+        "amount": 22,
+        "price": 56.1895
+      },
+      {
+        "id": 4,
+        "amount": 55,
+        "price": 14.074
+      },
+      {
+        "id": 5,
+        "amount": 21,
+        "price": 89.1711
+      },
+      {
+        "id": 6,
+        "amount": 81,
+        "price": 38.8797
+      },
+      {
+        "id": 7,
+        "amount": 67,
+        "price": 87.7907
+      },
+      {
+        "id": 8,
+        "amount": 63,
+        "price": 38.1236
+      },
+      {
+        "id": 9,
+        "amount": 3,
+        "price": 44.527
+      },
+      {
+        "id": 10,
+        "amount": 36,
+        "price": 85.1813
+      },
+      {
+        "id": 11,
+        "amount": 41,
+        "price": 21.238
+      },
+      {
+        "id": 12,
+        "amount": 87,
+        "price": 44.8732
+      },
+      {
+        "id": 13,
+        "amount": 87,
+        "price": 18.2196
+      },
+      {
+        "id": 14,
+        "amount": 5,
+        "price": 45.8237
+      },
+      {
+        "id": 15,
+        "amount": 4,
+        "price": 79.6656
+      }
+    ]
+  },
+  {
+    "name": "Store 92",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 95,
+        "price": 9.6321
+      },
+      {
+        "id": 2,
+        "amount": 14,
+        "price": 3.1484
+      },
+      {
+        "id": 3,
+        "amount": 70,
+        "price": 20.5575
+      },
+      {
+        "id": 4,
+        "amount": 12,
+        "price": 75.3548
+      },
+      {
+        "id": 5,
+        "amount": 19,
+        "price": 18.4328
+      },
+      {
+        "id": 6,
+        "amount": 11,
+        "price": 47.3443
+      },
+      {
+        "id": 7,
+        "amount": 41,
+        "price": 16.1565
+      },
+      {
+        "id": 8,
+        "amount": 57,
+        "price": 45.234
+      },
+      {
+        "id": 9,
+        "amount": 14,
+        "price": 62.5502
+      },
+      {
+        "id": 10,
+        "amount": 0,
+        "price": 7.1586
+      },
+      {
+        "id": 11,
+        "amount": 36,
+        "price": 75.083
+      },
+      {
+        "id": 12,
+        "amount": 42,
+        "price": 2.6715
+      },
+      {
+        "id": 13,
+        "amount": 90,
+        "price": 56.2617
+      },
+      {
+        "id": 14,
+        "amount": 81,
+        "price": 81.1807
+      },
+      {
+        "id": 15,
+        "amount": 91,
+        "price": 70.0878
+      }
+    ]
+  },
+  {
+    "name": "Store 93",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 61,
+        "price": 71.1542
+      },
+      {
+        "id": 2,
+        "amount": 28,
+        "price": 29.0877
       },
       {
         "id": 3,
         "amount": 54,
-        "price": 24.2
+        "price": 56.2585
+      },
+      {
+        "id": 4,
+        "amount": 23,
+        "price": 22.818
+      },
+      {
+        "id": 5,
+        "amount": 98,
+        "price": 41.4659
+      },
+      {
+        "id": 6,
+        "amount": 74,
+        "price": 4.0244
+      },
+      {
+        "id": 7,
+        "amount": 29,
+        "price": 48.593
+      },
+      {
+        "id": 8,
+        "amount": 43,
+        "price": 35.7898
+      },
+      {
+        "id": 9,
+        "amount": 17,
+        "price": 14.0956
+      },
+      {
+        "id": 10,
+        "amount": 3,
+        "price": 41.9771
+      },
+      {
+        "id": 11,
+        "amount": 74,
+        "price": 6.0491
+      },
+      {
+        "id": 12,
+        "amount": 21,
+        "price": 32.4292
+      },
+      {
+        "id": 13,
+        "amount": 10,
+        "price": 39.8448
+      },
+      {
+        "id": 14,
+        "amount": 1,
+        "price": 94.7282
+      },
+      {
+        "id": 15,
+        "amount": 92,
+        "price": 16.3219
+      }
+    ]
+  },
+  {
+    "name": "Store 94",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 93,
+        "price": 93.5987
+      },
+      {
+        "id": 2,
+        "amount": 86,
+        "price": 36.89
+      },
+      {
+        "id": 3,
+        "amount": 9,
+        "price": 84.4639
+      },
+      {
+        "id": 4,
+        "amount": 56,
+        "price": 67.6241
+      },
+      {
+        "id": 5,
+        "amount": 10,
+        "price": 79.0913
+      },
+      {
+        "id": 6,
+        "amount": 62,
+        "price": 77.6409
+      },
+      {
+        "id": 7,
+        "amount": 48,
+        "price": 31.4549
+      },
+      {
+        "id": 8,
+        "amount": 1,
+        "price": 24.0883
+      },
+      {
+        "id": 9,
+        "amount": 94,
+        "price": 33.2851
+      },
+      {
+        "id": 10,
+        "amount": 1,
+        "price": 100.4681
+      },
+      {
+        "id": 11,
+        "amount": 30,
+        "price": 48.5724
+      },
+      {
+        "id": 12,
+        "amount": 56,
+        "price": 24.4203
+      },
+      {
+        "id": 13,
+        "amount": 98,
+        "price": 71.122
+      },
+      {
+        "id": 14,
+        "amount": 94,
+        "price": 61.9481
+      },
+      {
+        "id": 15,
+        "amount": 63,
+        "price": 29.6192
+      }
+    ]
+  },
+  {
+    "name": "Store 95",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 42,
+        "price": 89.5188
+      },
+      {
+        "id": 2,
+        "amount": 18,
+        "price": 4.9859
+      },
+      {
+        "id": 3,
+        "amount": 98,
+        "price": 101.2381
+      },
+      {
+        "id": 4,
+        "amount": 47,
+        "price": 15.4981
+      },
+      {
+        "id": 5,
+        "amount": 2,
+        "price": 70.0095
+      },
+      {
+        "id": 6,
+        "amount": 91,
+        "price": 99.7055
+      },
+      {
+        "id": 7,
+        "amount": 8,
+        "price": 32.2497
+      },
+      {
+        "id": 8,
+        "amount": 5,
+        "price": 101.406
+      },
+      {
+        "id": 9,
+        "amount": 3,
+        "price": 37.6375
+      },
+      {
+        "id": 10,
+        "amount": 0,
+        "price": 62.6912
+      },
+      {
+        "id": 11,
+        "amount": 65,
+        "price": 43.8453
+      },
+      {
+        "id": 12,
+        "amount": 13,
+        "price": 83.1155
+      },
+      {
+        "id": 13,
+        "amount": 55,
+        "price": 62.5053
+      },
+      {
+        "id": 14,
+        "amount": 99,
+        "price": 99.4769
+      },
+      {
+        "id": 15,
+        "amount": 2,
+        "price": 69.5881
+      }
+    ]
+  },
+  {
+    "name": "Store 96",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 11,
+        "price": 85.9725
+      },
+      {
+        "id": 2,
+        "amount": 40,
+        "price": 86.0173
+      },
+      {
+        "id": 3,
+        "amount": 88,
+        "price": 51.8997
+      },
+      {
+        "id": 4,
+        "amount": 48,
+        "price": 63.3576
+      },
+      {
+        "id": 5,
+        "amount": 72,
+        "price": 53.5599
+      },
+      {
+        "id": 6,
+        "amount": 65,
+        "price": 16.3189
+      },
+      {
+        "id": 7,
+        "amount": 21,
+        "price": 52.5918
+      },
+      {
+        "id": 8,
+        "amount": 14,
+        "price": 93.8168
+      },
+      {
+        "id": 9,
+        "amount": 66,
+        "price": 40.6365
+      },
+      {
+        "id": 10,
+        "amount": 39,
+        "price": 51.3545
+      },
+      {
+        "id": 11,
+        "amount": 96,
+        "price": 96.3148
+      },
+      {
+        "id": 12,
+        "amount": 33,
+        "price": 3.3903
+      },
+      {
+        "id": 13,
+        "amount": 88,
+        "price": 97.7305
+      },
+      {
+        "id": 14,
+        "amount": 67,
+        "price": 57.8772
+      },
+      {
+        "id": 15,
+        "amount": 3,
+        "price": 31.1047
+      }
+    ]
+  },
+  {
+    "name": "Store 97",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 33,
+        "price": 11.0669
+      },
+      {
+        "id": 2,
+        "amount": 97,
+        "price": 7.9986
+      },
+      {
+        "id": 3,
+        "amount": 69,
+        "price": 77.6219
+      },
+      {
+        "id": 4,
+        "amount": 98,
+        "price": 61.9843
+      },
+      {
+        "id": 5,
+        "amount": 33,
+        "price": 74.7884
+      },
+      {
+        "id": 6,
+        "amount": 96,
+        "price": 23.9054
+      },
+      {
+        "id": 7,
+        "amount": 27,
+        "price": 61.5034
+      },
+      {
+        "id": 8,
+        "amount": 63,
+        "price": 50.4935
+      },
+      {
+        "id": 9,
+        "amount": 78,
+        "price": 65.7199
+      },
+      {
+        "id": 10,
+        "amount": 57,
+        "price": 11.6839
+      },
+      {
+        "id": 11,
+        "amount": 21,
+        "price": 72.1498
+      },
+      {
+        "id": 12,
+        "amount": 77,
+        "price": 53.0501
+      },
+      {
+        "id": 13,
+        "amount": 91,
+        "price": 71.5745
+      },
+      {
+        "id": 14,
+        "amount": 23,
+        "price": 73.479
+      },
+      {
+        "id": 15,
+        "amount": 95,
+        "price": 53.4707
+      }
+    ]
+  },
+  {
+    "name": "Store 98",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 25,
+        "price": 53.3332
+      },
+      {
+        "id": 2,
+        "amount": 54,
+        "price": 8.0543
+      },
+      {
+        "id": 3,
+        "amount": 70,
+        "price": 76.3956
+      },
+      {
+        "id": 4,
+        "amount": 36,
+        "price": 30.7276
+      },
+      {
+        "id": 5,
+        "amount": 91,
+        "price": 10.5777
+      },
+      {
+        "id": 6,
+        "amount": 8,
+        "price": 82.9215
+      },
+      {
+        "id": 7,
+        "amount": 35,
+        "price": 95.4348
+      },
+      {
+        "id": 8,
+        "amount": 88,
+        "price": 30.1231
+      },
+      {
+        "id": 9,
+        "amount": 56,
+        "price": 22.9119
+      },
+      {
+        "id": 10,
+        "amount": 36,
+        "price": 8.0186
+      },
+      {
+        "id": 11,
+        "amount": 41,
+        "price": 77.2078
+      },
+      {
+        "id": 12,
+        "amount": 23,
+        "price": 49.7036
+      },
+      {
+        "id": 13,
+        "amount": 40,
+        "price": 92.3311
+      },
+      {
+        "id": 14,
+        "amount": 23,
+        "price": 10.7659
+      },
+      {
+        "id": 15,
+        "amount": 13,
+        "price": 49.2381
+      }
+    ]
+  },
+  {
+    "name": "Store 99",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 69,
+        "price": 24.6201
+      },
+      {
+        "id": 2,
+        "amount": 9,
+        "price": 89.2088
+      },
+      {
+        "id": 3,
+        "amount": 35,
+        "price": 45.9699
+      },
+      {
+        "id": 4,
+        "amount": 8,
+        "price": 27.4459
+      },
+      {
+        "id": 5,
+        "amount": 33,
+        "price": 18.1713
+      },
+      {
+        "id": 6,
+        "amount": 74,
+        "price": 27.5267
+      },
+      {
+        "id": 7,
+        "amount": 9,
+        "price": 80.6401
+      },
+      {
+        "id": 8,
+        "amount": 66,
+        "price": 4.9134
+      },
+      {
+        "id": 9,
+        "amount": 91,
+        "price": 19.9321
+      },
+      {
+        "id": 10,
+        "amount": 6,
+        "price": 89.8679
+      },
+      {
+        "id": 11,
+        "amount": 33,
+        "price": 86.558
+      },
+      {
+        "id": 12,
+        "amount": 65,
+        "price": 60.7577
+      },
+      {
+        "id": 13,
+        "amount": 76,
+        "price": 76.0703
+      },
+      {
+        "id": 14,
+        "amount": 63,
+        "price": 67.2034
+      },
+      {
+        "id": 15,
+        "amount": 25,
+        "price": 81.8246
+      }
+    ]
+  },
+  {
+    "name": "Store 100",
+    "cards": [
+      {
+        "id": 1,
+        "amount": 35,
+        "price": 59.4777
+      },
+      {
+        "id": 2,
+        "amount": 73,
+        "price": 69.0044
+      },
+      {
+        "id": 3,
+        "amount": 4,
+        "price": 44.1161
+      },
+      {
+        "id": 4,
+        "amount": 43,
+        "price": 69.8744
+      },
+      {
+        "id": 5,
+        "amount": 33,
+        "price": 72.279
+      },
+      {
+        "id": 6,
+        "amount": 76,
+        "price": 10.4536
+      },
+      {
+        "id": 7,
+        "amount": 99,
+        "price": 76.0697
+      },
+      {
+        "id": 8,
+        "amount": 58,
+        "price": 27.1817
+      },
+      {
+        "id": 9,
+        "amount": 91,
+        "price": 86.4108
+      },
+      {
+        "id": 10,
+        "amount": 80,
+        "price": 57.4401
+      },
+      {
+        "id": 11,
+        "amount": 24,
+        "price": 86.1894
+      },
+      {
+        "id": 12,
+        "amount": 58,
+        "price": 26.9873
+      },
+      {
+        "id": 13,
+        "amount": 60,
+        "price": 57.5045
+      },
+      {
+        "id": 14,
+        "amount": 76,
+        "price": 99.9125
+      },
+      {
+        "id": 15,
+        "amount": 59,
+        "price": 10.2517
       }
     ]
   }
