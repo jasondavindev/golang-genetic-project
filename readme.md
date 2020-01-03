@@ -1,4 +1,4 @@
-# Genetica
+# Genetic
 
 ## Purpose
 
